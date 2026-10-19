@@ -1,0 +1,18 @@
+import {test,expect} from '@playwright/test';
+import fs from 'node:fs/promises';
+const EXAM='hazardous-materials-cbt:v1',PRACTICE='hazardous-materials-cbt:practice:v1',LEARNING='hazardous-materials-cbt:learning:v1';
+test('sidebar backup downloads complete JSON; reset requires confirmation and preserves other CBT data',async({page})=>{
+ await page.goto('/');await expect(page.locator('.local-note')).toContainText('나만의 학습 기록');await expect(page.locator('.local-note')).toContainText('로그인 없이, 이 브라우저에 저장');
+ await page.getByRole('button',{name:'시험 시작',exact:true}).click();await page.locator('[data-choice="1"]').click();await page.locator('nav [data-view="practice"]').click();await page.getByRole('button',{name:'문제풀이 시작하기',exact:true}).click();await page.locator('[data-practice-choice="2"]').click();await page.locator('[data-bookmark]').click();
+ await page.evaluate(()=>{localStorage.setItem('electrician-cbt:v1','electrician record');localStorage.setItem('unrelated','keep');});
+ const pending=page.waitForEvent('download');await page.getByRole('button',{name:'학습 기록 백업',exact:true}).click();const download=await pending;expect(download.suggestedFilename()).toBe('hazardous-materials-study-backup.json');const backup=JSON.parse(await fs.readFile(await download.path(),'utf8'));
+ expect(backup.app).toBe('hazardous-materials-cbt');expect(Object.keys(backup.exam.answers)).toHaveLength(1);expect(backup.practice.selected).toBe(2);expect(backup.learning.bookmarks).toHaveLength(1);expect(backup.learning.total).toBe(1);expect(backup.rawStorage[EXAM]).not.toBeNull();expect(backup.storageReadable).toBe(true);
+ const before=await page.evaluate(()=>({...localStorage}));await page.getByRole('button',{name:'데이터 초기화',exact:true}).click();await expect(page.getByRole('dialog')).toContainText('기본 문제은행 1,000문항은 유지');await page.getByRole('button',{name:'취소',exact:true}).click();expect(await page.evaluate(()=>({...localStorage}))).toEqual(before);
+ await page.getByRole('button',{name:'데이터 초기화',exact:true}).click();await page.getByRole('button',{name:'모든 데이터 초기화',exact:true}).click();await expect(page.getByRole('dialog')).toHaveCount(0);await expect(page.locator('#notice')).toContainText('학습 데이터를 초기화했습니다');await expect(page.getByRole('button',{name:'시험 시작',exact:true})).toBeEnabled();
+ for(const key of [EXAM,PRACTICE,LEARNING])expect(await page.evaluate(key=>localStorage.getItem(key),key)).toBeNull();expect(await page.evaluate(()=>localStorage.getItem('electrician-cbt:v1'))).toBe('electrician record');expect(await page.evaluate(()=>localStorage.getItem('unrelated'))).toBe('keep');
+ await page.reload();await expect(page.getByRole('button',{name:'시험 시작',exact:true})).toBeEnabled();await page.locator('nav [data-view="stats"]').click();await expect(page.locator('.cards').first()).toContainText('0%');expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
+test('reset failure is reported and active practice stays intact',async({page})=>{
+ await page.goto('/');await page.getByRole('button',{name:'문제풀이 시작하기',exact:true}).click();await page.locator('[data-practice-choice="1"]').click();const before=await page.evaluate(key=>localStorage.getItem(key),PRACTICE);
+ await page.evaluate(()=>{Storage.prototype.removeItem=()=>{throw new DOMException('denied','SecurityError');};});await page.getByRole('button',{name:'데이터 초기화',exact:true}).click();await page.getByRole('button',{name:'모든 데이터 초기화',exact:true}).click();await expect(page.locator('#notice')).toContainText('초기화를 완료하지 못했습니다');expect(await page.evaluate(key=>localStorage.getItem(key),PRACTICE)).toBe(before);await expect(page.locator('.answer-feedback')).toBeVisible();
+});

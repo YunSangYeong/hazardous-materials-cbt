@@ -1,3 +1,4 @@
+import {studyBackup,clearStudy} from './storage.js';
 import {PRACTICE_KEY,LEARNING_KEY,createPractice,choosePractice,nextPractice,restorePractice,emptyLearning,restoreLearning,recordAttempt} from './practice.js';
 import {SUBJECT, AREAS, STORAGE_KEY, eligible, createExam, remaining, answer, submit, grade, restore} from './model.js';
 const app = document.querySelector('#app'), notice = document.querySelector('#notice');
@@ -84,6 +85,26 @@ function tick() {
   if (timer) { timer.textContent = `${String(Math.floor(seconds/60)).padStart(2,'0')}:${String(seconds%60).padStart(2,'0')}`;timer.classList.toggle('urgent',seconds<=300); }
   if (seconds===0) finish();
 }
+function downloadBackup(){
+ try{
+  const backup=studyBackup({getItem:key=>localStorage.getItem(key)},{exam,practice,learning,view});
+  const url=URL.createObjectURL(new Blob([JSON.stringify(backup,null,2)],{type:'application/json'}));
+  const link=document.createElement('a');link.href=url;link.download='hazardous-materials-study-backup.json';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+  notice.textContent=backup.storageReadable?'학습 기록을 백업했습니다.':'저장소 접근이 제한되어 현재 창의 학습 기록만 백업했습니다.';
+ }catch{notice.textContent='백업 파일을 만들지 못했습니다. 브라우저의 다운로드·저장소 설정을 확인해 주세요.';}
+}
+function confirmReset(){
+ if(document.querySelector('dialog[open]'))return;
+ const dialog=document.createElement('dialog');dialog.setAttribute('aria-labelledby','reset-title');
+ dialog.innerHTML='<h2 id="reset-title">학습 데이터를 초기화할까요?</h2><p>진행 중인 시험, 랜덤 학습, 오답노트, 북마크와 학습 통계가 삭제됩니다. 기본 문제은행 1,000문항은 유지됩니다.</p><p>필요한 기록을 먼저 백업하세요. 이 작업은 되돌릴 수 없습니다.</p><div class="actions"><button data-reset-cancel>취소</button><button data-reset-confirm class="danger">모든 데이터 초기화</button></div>';
+ document.body.append(dialog);dialog.addEventListener('close',()=>dialog.remove(),{once:true});
+ dialog.querySelector('[data-reset-cancel]').onclick=()=>dialog.close();
+ dialog.querySelector('[data-reset-confirm]').onclick=()=>{
+  try{clearStudy(localStorage);}catch{notice.textContent='브라우저 저장소에 접근할 수 없어 초기화를 완료하지 못했습니다. 현재 창의 학습 기록은 유지합니다.';dialog.close();return;}
+  exam=null;practice=null;practiceArea='';learning=emptyLearning();filter='';area='';page=0;reviewOnly=true;safeStorage=true;blockedStorage.clear();view='home';dialog.close();render();app.focus();notice.textContent='학습 데이터를 초기화했습니다. 기본 문제은행 1,000문항은 그대로 유지됩니다.';
+ };
+ dialog.showModal();dialog.querySelector('[data-reset-cancel]').focus();
+}
 function confirmFinish() {
   const unanswered = 60-Object.keys(exam.answers).length;
   const dialog = document.createElement('dialog');
@@ -99,6 +120,8 @@ function start(fresh = false) {
 }
 document.addEventListener('click',e=>{
   const b=e.target.closest('button');if(!b || b.disabled)return;
+  if(b.dataset.action==='backup'){downloadBackup();return;}
+  if(b.dataset.action==='reset'){confirmReset();return;}
   tick();
   if(b.dataset.bookmark){const id=b.dataset.bookmark;if(bank.some(q=>q.id===id)){learning={...learning,bookmarks:learning.bookmarks.includes(id)?learning.bookmarks.filter(x=>x!==id):[...learning.bookmarks,id]};saveStudy(LEARNING_KEY,learning);render();}return;}
   if(b.hasAttribute('data-practice-area')){practiceArea=b.dataset.practiceArea;render();return;}
