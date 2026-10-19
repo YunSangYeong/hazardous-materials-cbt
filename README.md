@@ -1,6 +1,6 @@
 # 위험물기능사 필기 CBT 모의시험
 
-**1,000문항을 수록한 비공식 학습용 모의시험입니다.** Q-Net 2025–2029 출제기준의 공식 단일 과목 **위험물의 성질 및 안전관리**를 적용했습니다. 기존 [electrician-cbt](https://github.com/YunSangYeong/electrician-cbt)의 색상·사이드바·카드와 시험 흐름을 참고하여 별도의 정적 웹앱으로 구현했습니다. 기존 저장소는 변경하지 않았습니다.
+**1,000문항을 수록한 비공식 학습용 모의시험입니다.** Q-Net 출제기준의 공식 단일 과목 **위험물의 성질 및 안전관리**를 적용했습니다. 기존 [electrician-cbt](https://github.com/YunSangYeong/electrician-cbt)의 색상·사이드바·카드와 시험 흐름을 참고하여 별도의 정적 웹앱으로 구현했습니다. 기존 저장소는 변경하지 않았습니다.
 
 ## 문제은행
 
@@ -103,7 +103,7 @@ https://YunSangYeong.github.io/hazardous-materials-cbt/
 
 ## 출처·이용 조건
 
-- [Q-Net 출제기준 344 / 종목 6697](https://www.q-net.or.kr/pageLink.do?link=cst/cstReport&jmCd=6697&mcrtrNo=344), 2025.01.01–2029.12.31, 필기 1–6쪽.
+- [Q-Net 출제기준 344 / 종목 6697](https://www.q-net.or.kr/pageLink.do?link=cst/cstReport&jmCd=6697&mcrtrNo=344), 필기 1–6쪽.
 - 국가법령정보센터의 위험물안전관리법·시행령·시행규칙·위험물안전관리에 관한 세부기준, 운송·운반 경고표지 기준 및 NFPC/NFTC. **2026-10-19 대조**, 개별 시행일·위치는 [sources.json](data/sources.json)과 문항별 근거에 기록했습니다.
 - Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson / OpenStax, *Chemistry 2e*, [2025-12-05 고정 커밋](https://github.com/openstax/osbooks-chemistry-bundle/tree/466d8b1b9dbaee5d44d7184cd139ea4ef9179563), **CC BY 4.0**. 한국어 번역·요약 및 선다형 재구성입니다. 해당 판본의 라이선스를 보존했으며, 이후 라이선스가 다른 판본과 구별합니다. 원저자의 승인·감수를 의미하지 않습니다. 기존 연습문제나 그림을 복제하지 않았습니다.
 - 프로그램 코드: [MIT](LICENSE). 자체 제작 문항의 글: CC BY 4.0. 출처 문서 자체의 이용 조건은 각 원문을 따릅니다. [웹앱 출처 안내](attribution.html)도 제공합니다.
