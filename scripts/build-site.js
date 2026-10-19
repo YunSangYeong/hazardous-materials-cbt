@@ -5,6 +5,6 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dest=path.join(root,'_site');
 await rm(dest,{recursive:true,force:true});
 for(const p of ['src','data'])await mkdir(path.join(dest,p),{recursive:true});
-for(const file of ['index.html','attribution.html','src/app.js','src/model.js','src/styles.css','data/questions.json','data/sources.json'])await copyFile(path.join(root,file),path.join(dest,file));
+for(const file of ['index.html','attribution.html','src/app.js','src/model.js','src/practice.js','src/styles.css','data/questions.json','data/sources.json'])await copyFile(path.join(root,file),path.join(dest,file));
 await copyFile(path.join(root,'.nojekyll'),path.join(dest,'.nojekyll'));
 console.log('정적 산출물: _site (시험 출제 자격과 별도이며 배포 전에 validate:release 필수)');

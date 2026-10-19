@@ -1,0 +1,29 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-19",
+  "bankSha256": "e0ba9b35d77fe115774d7a58008e6197600d77d8a41ddef67200b49b9796632c",
+  "questionBank": "unchanged / 1000 internally reviewed questions",
+  "unit": {
+    "passed": 68,
+    "failed": 0,
+    "skipped": 0
+  },
+  "browser": {
+    "passed": 26,
+    "failed": 0,
+    "skipped": 0,
+    "projects": [
+      "desktop",
+      "mobile"
+    ]
+  },
+  "features": [
+    "random practice without duplicates within a cycle",
+    "immediate grading and explanations",
+    "Space after answer only",
+    "native keyboard controls preserved",
+    "wrong notes and bookmarks",
+    "learning statistics and restoration"
+  ],
+  "reference": "YunSangYeong/electrician-cbt"
+}
