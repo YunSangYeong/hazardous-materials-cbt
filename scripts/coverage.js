@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import {fileURLToPath} from 'node:url';
+import {coverage} from './source-evidence.js';
+const root=new URL('../',import.meta.url);
+const bank=JSON.parse(fs.readFileSync(new URL('data/questions.json',root),'utf8'));
+const rows=coverage(bank);
+const header=['# 공식 출제기준별 문항 현황','','출처: Q-Net 위험물기능사 2025–2029 필기 1–6쪽. 원고 수와 원문 대조·내부검수 수를 구분합니다. 같은 문항이 여러 항목에 연결되면 항목별 집계는 실제 문항 수와 다를 수 있습니다.','','| ID | 쪽 | 공식 항목 | 수록 | 내부검수 |','|---|---:|---|---:|---:|'];
+const report=header.concat(rows.map(c=>`| ${c.id} | ${c.page} | ${c.main} → ${c.sub} → ${c.leaf} | ${c.total} | ${c.verified} |`)).join('\n')+'\n';
+fs.writeFileSync(new URL('docs/COVERAGE.md',root),report);
+console.log(JSON.stringify({officialItems:rows.length,draftedItems:rows.filter(c=>c.total).length,reviewedItems:rows.filter(c=>c.verified).length,uncoveredItems:rows.filter(c=>!c.total).length,notReviewedItems:rows.filter(c=>!c.verified).length},null,2));

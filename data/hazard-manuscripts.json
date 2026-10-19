@@ -1,0 +1,1145 @@
+[
+  {
+    "key": "class1-water-exception",
+    "question": "제1류 위험물이라는 이유만으로 물 소화를 일률적으로 선택하면 안 되는 대표적 예외는?",
+    "correct": "알칼리금속 과산화물처럼 물과의 접촉을 피해야 하는 물질",
+    "wrong": [
+      "모든 산화성 고체는 수용성이라서 물이 불필요하다",
+      "제1류는 모두 물과 격렬하게 반응한다",
+      "제1류에는 금수성에 관한 예외가 전혀 없다"
+    ],
+    "explanation": "제1류 중 알칼리금속 과산화물 및 이를 함유한 것은 물 접촉을 피한다. 일반적인 산화성 고체와 구별하여 약제를 정해야 한다. 시행규칙 별표 18 Ⅱ1의 예외와 별표 17 적응성 표를 함께 확인한다.",
+    "criterionIds": [
+      "Q02.01.02",
+      "Q02.03.01",
+      "Q02.03.02"
+    ],
+    "topic": "제1류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "1. 제1류 위험물은",
+        "quote": "1. 제1류 위험물은 가연물과의 접촉·혼합이나 분해를 촉진하는 물품과의 접\n   근 또는 과열·충격·마찰 등을 피하는 한편, 알카리금속의 과산화물 및 이\n   를 함유한     것에 있어서는 물과의 접촉을 피하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class2-acid-contact",
+    "question": "철분·금속분·마그네슘 및 이를 함유한 제2류 위험물을 취급할 때, 별표 18이 물과 함께 접촉을 피하도록 명시한 것은?",
+    "correct": "산",
+    "wrong": [
+      "건조한 질소",
+      "밀폐가 가능한 전용 용기",
+      "해당 물질에 적응하는 보호재료"
+    ],
+    "explanation": "별표 18 Ⅱ2는 산화제·점화원·과열을 피하고, 철분·금속분·마그네슘 등에 대해서는 물이나 산과의 접촉을 피하도록 한다. 이는 모든 제2류가 동일한 반응성을 갖는다는 뜻은 아니다.",
+    "criterionIds": [
+      "Q03.01.03",
+      "Q03.02.02",
+      "Q03.03.02"
+    ],
+    "topic": "제2류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "2. 제2류 위험물은",
+        "quote": "2. 제2류 위험물은 산화제와의 접촉·혼합이나 불티·불꽃·고온체와의 접근\n  또는 과열을 피하는 한편, 철분·금속분·마그네슘 및 이를 함유한 것에 있\n  어서는 물이나 산과의 접촉을 피하고 인화성 고체에 있어서는 함부로 증기\n  를 발생시키지 아니하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class3-dry-extinguish",
+    "question": "금수성 제3류 위험물의 화재에 대응하기 위한 마른모래를 보관할 때 특히 유지해야 할 상태는?",
+    "correct": "물이 섞이지 않은 건조한 상태",
+    "wrong": [
+      "물을 충분히 흡수한 상태",
+      "산화제와 혼합한 상태",
+      "산성 세정액에 담근 상태"
+    ],
+    "explanation": "금수성 물질은 물과의 접촉을 피해야 한다. 마른모래를 젖게 보관하면 이 목적에 반한다. 실제 진압은 물질별 적응성과 현장 안전을 확인한 전문 대응이 필요하다.",
+    "criterionIds": [
+      "Q04.03.01",
+      "Q04.03.02"
+    ],
+    "topic": "제3류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "3. 제3류 위험물 중",
+        "quote": "3. 제3류 위험물 중 자연발화성물질에 있어서는 불티·불꽃 또는 고온체와의\n  접근·과열 또는 공기와의 접촉을 피하고, 금수성물질에 있어서는 물과의\n  접촉을 피하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      },
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "마른 모래 및 팽창질석",
+        "quote": "마른 모래 및 팽창질석   마른모래 150L 이상",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class4-vapor-handling",
+    "question": "제4류 위험물을 취급하는 작업계획 중 별표 18의 유별 공통기준에 직접 어긋나는 것은?",
+    "correct": "작업 편의를 위해 가열·개방하여 증기를 함부로 발생시킨다",
+    "wrong": [
+      "불티와 불꽃을 차단한다",
+      "고온체와의 접근을 피한다",
+      "불필요한 과열을 막는다"
+    ],
+    "explanation": "제4류는 불티·불꽃·고온체와의 접근 또는 과열을 피하고 함부로 증기를 발생시키지 않아야 한다. 증기는 공기와 섞여 점화될 수 있으므로 취급 과정의 발생 억제가 중요하다.",
+    "criterionIds": [
+      "Q05.02.02",
+      "Q05.03.02"
+    ],
+    "topic": "제4류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "4. 제4류 위험물은",
+        "quote": "4. 제4류 위험물은 불티·불꽃·고온체와의 접근 또는 과열을 피하고, 함부로\n  증기를 발생시키지 아니하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class4-gas-applicability",
+    "question": "별표 17의 적응성 표에서 제4류 위험물에 적응성이 표시되어 있는 고정식 소화설비 조합은?",
+    "correct": "불활성가스소화설비와 할로젠화합물소화설비",
+    "wrong": [
+      "옥내소화전설비와 옥외소화전설비",
+      "옥내소화전설비와 스프링클러설비의 무조건 적용",
+      "옥외소화전설비와 물통"
+    ],
+    "explanation": "별표 17은 불활성가스·할로젠화합물 소화설비를 제4류에 적응하는 것으로 표시한다. 물을 뿌리는 모든 설비를 모든 인화성 액체 화재에 적용할 수 있다는 뜻은 아니다. 설비의 방호범위와 설치기준을 별도로 만족해야 한다.",
+    "criterionIds": [
+      "Q05.03.01"
+    ],
+    "topic": "제4류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "불활성가스소화설비",
+        "quote": "불활성가스소화설비\n       지중탱크\n                              또는 이동식 이외의 할로젠화합물소화설비",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class5-protect-heat-impact",
+    "question": "자기반응성 물질의 안전관리에서 공기 접촉 차단만으로 충분하다고 볼 수 없는 이유를 가장 잘 설명한 것은?",
+    "correct": "열분해 반응이 급격하게 진행될 위험도 따로 관리해야 하기 때문이다",
+    "wrong": [
+      "외부 산소가 없으면 모든 화학반응이 정지하기 때문이다",
+      "자기반응성 물질은 모두 불연성이기 때문이다",
+      "충격과 마찰은 자기반응성 물질에 영향을 주지 않기 때문이다"
+    ],
+    "explanation": "제5류는 과열·충격·마찰을 피해야 한다. 외부 산소 차단만으로 열분해 위험을 없앴다고 판단하면 안 된다. 산화성 물질과 자기반응성 물질의 위험 기전을 구별한다.",
+    "criterionIds": [
+      "Q06.03.01",
+      "Q06.03.02"
+    ],
+    "topic": "제5류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "5. 제5류 위험물은",
+        "quote": "5. 제5류 위험물은 불티·불꽃·고온체와의 접근이나 과열·충격 또는 마찰\n  을 피    하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class6-decomposition-promoter",
+    "question": "제6류 위험물 저장 장소에서 가연물과 분리하는 것 외에 별표 18이 피하도록 한 조건으로 옳은 것은?",
+    "correct": "분해 촉진 물품과의 접근 또는 과열",
+    "wrong": [
+      "위험물의 성질에 맞는 온도 유지",
+      "용기의 부식 여부 확인",
+      "해당 위험물에 적응하는 용기 사용"
+    ],
+    "explanation": "제6류는 가연물 접촉·혼합뿐 아니라 분해를 촉진하는 물품과의 접근과 과열도 피해야 한다. 저장과 취급 모두에 적용되는 유별 공통기준이다.",
+    "criterionIds": [
+      "Q07.02.01",
+      "Q07.02.02",
+      "Q07.03.02"
+    ],
+    "topic": "제6류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3",
+        "locator": "6. 제6류 위험물은",
+        "quote": "6. 제6류 위험물은 가연물과의 접촉·혼합이나 분해를 촉진하는 물품과의 접\n  근 또는 과열을 피하여야 한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "class6-carbon-dioxide-condition",
+    "question": "별표 17에서 제6류 위험물에 대한 이산화탄소소화기 적응성의 △ 표시는 어떻게 이해해야 하는가?",
+    "correct": "폭발의 위험이 없는 장소에서만 적응하는 조건부 표시이다",
+    "wrong": [
+      "모든 장소에서 무조건 적응한다",
+      "이산화탄소가 산화성 액체를 중화한다는 뜻이다",
+      "물과 이산화탄소를 반드시 혼합하라는 뜻이다"
+    ],
+    "explanation": "표의 제6류·이산화탄소소화기 칸은 △이다. 비고의 조건을 함께 읽어야 하며, 물질 이름이나 소화기 종류만으로 무조건 적응한다고 판단하면 안 된다.",
+    "criterionIds": [
+      "Q07.03.01"
+    ],
+    "topic": "제6류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "이산화탄소소화기",
+        "quote": "이산화탄소소화기            ○               ○               ○       △",
+        "effectiveDate": "2026-07-01"
+      },
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "험물에 대하여 적응성이 있음을,",
+        "quote": "험물에 대하여 적응성이 있음을, 제6류 위험물을 저장 또는 취급하는 장소로서 폭발의 위\n    험이 없는 장소에 한하여 이산화탄소소화기가 제6류 위험물에 대하여 적응성이 있음을 각\n    각 표시한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "shipping-office-support",
+    "question": "운송책임자가 별도 사무실에서 지원하는 방식으로 이동탱크저장소를 운송할 때 적절한 업무 조합은?",
+    "correct": "경로 파악·연락체계 확보·수시 안전 확인·비상시 조언",
+    "wrong": [
+      "운전자와 연락을 끊고 도착 후에만 확인",
+      "운송 경로를 알 필요 없이 서류만 보관",
+      "소방관서 연락체계 없이 사고 대응을 운전자에게 전담"
+    ],
+    "explanation": "별표 21 1나의 별도 사무실 지원 방식도 적법한 방법이다. 경로·관할 소방관서와 협력업체 연락체계, 안전 확인 및 응급처치 조언 등 실질적 감독·지원이 필요하다.",
+    "criterionIds": [
+      "Q08.01.02"
+    ],
+    "topic": "위험물 운반 및 운송",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-21.txt",
+        "sha256": "ddb5876a02edbcf6b7bc3aa230c8f120348b7f517d304ae9e71fe022ca303ed1",
+        "locator": "나. 운송의 감독",
+        "quote": "나. 운송의 감독 또는 지원을 위하여 마련한 별도의 사무실에 운송책임자가\n    대기하면서 다음의 사항을 이행하는 방법\n   1) 운송경로를 미리 파악하고 관할소방관서 또는 관련업체(비상대응에 관\n     한 협력을 얻을 수 있는 업체를 말한다)에 대한 연락체계를 갖추는 것\n   2) 이동탱크저장소의 운전자에 대하여 수시로 안전확보 상황을 확인하는\n     것\n   3) 비상시의 응급처치에 관하여 조언을 하는 것\n   4) 그 밖에 위험물의 운송중 안전확보에 관하여 필요한 정보를 제공하고\n     감독 또는 지원하는 것",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "fire-grade-or-condition",
+    "question": "별표 17의 소화난이도등급Ⅰ 표에 열거된 건축물 규모·위험물 수량 등의 기준은 어떻게 적용하는가?",
+    "correct": "열거된 기준 중 어느 하나에 해당하면 그 등급 대상이 된다",
+    "wrong": [
+      "모든 기준을 동시에 만족해야만 그 등급 대상이다",
+      "위험물 수량만 보고 건축물 규모는 항상 무시한다",
+      "설치자가 원하는 등급을 임의로 선택한다"
+    ],
+    "explanation": "등급Ⅰ 표 비고는 건축물 규모, 저장 또는 취급하는 위험물 수량 및 최대수량 등의 어느 하나에 해당하면 등급Ⅰ로 본다고 한다. 조건을 모두 동시에 만족해야 한다고 읽지 않는다.",
+    "criterionIds": [
+      "Q09.04.01"
+    ],
+    "topic": "위험물 소방시설 점검",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "의 어느 하나에 해당하는 제조소등은 소화난이도등급",
+        "quote": "의 어느 하나에 해당하는 제조소등은 소화난이도등급",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "fire-demand-area",
+    "question": "외벽이 내화구조인 제조소 건축물에서 제조소 용도로 사용하는 연면적이 300 m²이다. 건축물 부분의 소요단위는? (위험물 자체 소요단위는 별도)",
+    "correct": "3소요단위",
+    "wrong": [
+      "1소요단위",
+      "2소요단위",
+      "6소요단위"
+    ],
+    "explanation": "별표 17 Ⅰ5다1에 따라 외벽이 내화구조인 제조소·취급소는 연면적 100 m²당 1소요단위이다. 따라서 300÷100=3이다. 저장소 기준인 150 m²나 비내화 제조소 기준인 50 m²를 대입하면 안 된다.",
+    "criterionIds": [
+      "Q09.04.03"
+    ],
+    "topic": "위험물 소방시설 점검",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7",
+        "locator": "1) 제조소 또는 취급소의 건축물은",
+        "quote": "1) 제조소 또는 취급소의 건축물은 외벽이 내화구조인 것은 연면적(제조소등의 용도로\n         사용되는 부분 외의 부분이 있는 건축물에 설치된 제조소등에 있어서는 당해 건축물\n         중 제조소등에 사용되는 부분의 바닥면적의 합계를 말한다. 이하 같다) 100㎡를 1소\n         요단위로 하며, 외벽이 내화구조가\n         아닌 것은 연면적 50㎡를 1소요단위로 할 것",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "hydride-ion",
+    "question": "활성 금속의 이온성 수소화물에서 수소가 이루는 이온과 물 접촉 위험을 바르게 연결한 것은?",
+    "correct": "H⁻가 물과 반응하여 수소 기체를 발생시킬 수 있다",
+    "wrong": [
+      "H⁺가 물을 모두 산소로 바꾼다",
+      "H⁻는 물에서 항상 아무 반응도 하지 않는다",
+      "수소화물의 수소는 항상 중성 헬륨이다"
+    ],
+    "explanation": "활성 금속 수소화물의 H⁻는 강한 염기이다. 물과 반응하면 가연성 수소가 발생하므로 금수성 위험을 이해해야 한다. 금속 나트륨 자체와 수소화물을 구별한다.",
+    "criterionIds": [
+      "Q04.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68833.txt",
+        "sha256": "6ac9e72cef8f3701e189d31a6e043f1ce7b0777eaf5da6b4a4550060a578ba30",
+        "locator": "Chemistry 2e / m68833",
+        "quote": "Reaction of Ionic Metal Hydrides with Water It is possible to produce hydrogen from the reaction of hydrides of the active metals, which contain the very strongly basic H− anion, with water: CaH2(s)+2H2O(l)⟶Ca2+(aq)+2OH−(aq)+2H2(g) Metal hydrides are expensive but convenient sources of hydrogen, especially where space and weight are important factors."
+      }
+    ]
+  },
+  {
+    "key": "ionic-nitride",
+    "question": "이온성 질화물이 물과 반응할 때 발생할 수 있어 자극성 가스 노출 관리가 필요한 물질은?",
+    "correct": "암모니아",
+    "wrong": [
+      "아세틸렌",
+      "이산화황",
+      "이산화탄소"
+    ],
+    "explanation": "질화물 이온은 강한 염기이며 물과 반응하여 암모니아를 생성할 수 있다. 탄화물의 아세틸렌 발생과 구별한다. 실제 취급 시에는 물 접촉과 가스 노출을 예방한다.",
+    "criterionIds": [
+      "Q04.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68833.txt",
+        "sha256": "6ac9e72cef8f3701e189d31a6e043f1ce7b0777eaf5da6b4a4550060a578ba30",
+        "locator": "Chemistry 2e / m68833",
+        "quote": "Ammonia also forms when ionic nitrides react with water."
+      }
+    ]
+  },
+  {
+    "key": "phosphide-gas",
+    "question": "금속 인화물이 산과 접촉할 때 우려되는 매우 유독한 기체 PH₃의 이름은?",
+    "correct": "포스핀",
+    "wrong": [
+      "포스겐",
+      "암모니아",
+      "메테인"
+    ],
+    "explanation": "포스핀(PH₃)은 매우 유독한 무색 기체이다. 인화물과 산의 접촉은 가스 발생 위험이 있으므로 금지·격리와 적절한 비상 대응이 필요하다. 제조나 실험 절차를 뜻하는 설명이 아니다.",
+    "criterionIds": [
+      "Q04.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68833.txt",
+        "sha256": "6ac9e72cef8f3701e189d31a6e043f1ce7b0777eaf5da6b4a4550060a578ba30",
+        "locator": "Chemistry 2e / m68833",
+        "quote": "Phosphine is a colorless, very poisonous gas, which has an odor like that of decaying fish."
+      }
+    ]
+  },
+  {
+    "key": "oxide-peroxide-distinction",
+    "question": "산화물과 과산화물을 구별할 때 옳은 이온 구조의 연결은?",
+    "correct": "산화물: O²⁻ / 과산화물: O₂²⁻",
+    "wrong": [
+      "산화물: O₂²⁻ / 과산화물: O²⁻",
+      "산화물: H⁻ / 과산화물: OH⁻",
+      "산화물: Cl⁻ / 과산화물: ClO₃⁻"
+    ],
+    "explanation": "과산화물은 산소 원자 두 개가 연결된 과산화물 이온을 포함한다. 산소 한 원자로 된 산화물 이온과 구별해야 산화수와 화학식 및 반응성을 이해할 수 있다.",
+    "criterionIds": [
+      "Q02.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68837.txt",
+        "sha256": "b993180415940c0b5c2fc97bf79723dbaa4f92a62099d17bbbd4ad8d9197ccd2",
+        "locator": "Chemistry 2e / m68837",
+        "quote": "peroxide ions, O2−, with oxygen-oxygen covalent bonds that have a bond order of 112, In addition, there are (3) hydroxides, containing hydroxide ions, OH−."
+      }
+    ]
+  },
+  {
+    "key": "nitric-oxidizer-acid",
+    "question": "질산의 위험성을 단순히 산성만으로 설명하면 부족한 이유는?",
+    "correct": "산으로서의 성질과 함께 강한 산화제로 작용할 수 있다",
+    "wrong": [
+      "모든 조건에서 환원제로만 작용한다",
+      "염기성이므로 금속을 전혀 부식시키지 않는다",
+      "유기물에 혼합해도 반응하지 않는다"
+    ],
+    "explanation": "질산은 강산이면서 산화제로도 작용한다. 따라서 산·염기 중화만을 생각하지 말고 유기물 등과의 혼촉 및 산화 반응 위험을 함께 관리한다.",
+    "criterionIds": [
+      "Q07.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68837.txt",
+        "sha256": "b993180415940c0b5c2fc97bf79723dbaa4f92a62099d17bbbd4ad8d9197ccd2",
+        "locator": "Chemistry 2e / m68837",
+        "quote": "nitric acid, HNO3."
+      }
+    ]
+  },
+  {
+    "key": "carbonyl-geometry",
+    "question": "알데하이드와 케톤의 카보닐기(C=O)에 있는 탄소 주위의 기본 기하 구조는?",
+    "correct": "평면 삼각형",
+    "wrong": [
+      "직선형",
+      "정사면체형",
+      "정팔면체형"
+    ],
+    "explanation": "카보닐 탄소는 산소와 이중결합하며 주위 세 방향의 결합이 평면 삼각형을 이룬다. 단일결합 네 개를 가진 포화 탄소의 정사면체와 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "trigonal planar carbon in the carbonyl group can attach to two other substituents leading to several subfamilies (aldehydes, ketones, carboxylic acids and esters) described in this section."
+      }
+    ]
+  },
+  {
+    "key": "alcohol-covalent",
+    "question": "에탄올의 –OH와 수산화나트륨의 OH⁻에 관한 설명 중 옳은 것은?",
+    "correct": "에탄올의 –OH는 탄소에 공유결합되어 있어 OH⁻ 이온과 같지 않다",
+    "wrong": [
+      "에탄올은 NaOH와 동일한 강염기이다",
+      "모든 –OH 표기는 반드시 자유 OH⁻ 이온을 뜻한다",
+      "에탄올의 산소와 수소는 이온결합만 한다"
+    ],
+    "explanation": "알코올의 하이드록시기는 공유결합된 작용기이다. NaOH의 수산화 이온과 동일시하면 용액 성질과 반응을 잘못 판단할 수 있다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68847.txt",
+        "sha256": "c0c82630ab5c3a8d93acff508ddfe59fb8ee7ad5d7df6160d8540a5bbe2efcea",
+        "locator": "Chemistry 2e / m68847",
+        "quote": "Alcohols are covalent molecules; the –OH group in an alcohol molecule is attached to a carbon atom by a covalent bond."
+      }
+    ]
+  },
+  {
+    "key": "alcohol-ether-isomers",
+    "question": "분자식 C₂H₆O만으로 에탄올과 다이메틸에테르를 구별하기 어려운 까닭은?",
+    "correct": "같은 분자식이 서로 다른 원자 연결과 작용기를 가질 수 있다",
+    "wrong": [
+      "원자번호가 같으면 모든 분자는 동일하다",
+      "액체는 구조 이성질체가 존재하지 않는다",
+      "에테르에는 산소가 전혀 없다"
+    ],
+    "explanation": "에탄올 CH₃CH₂OH는 알코올, 다이메틸에테르 CH₃OCH₃는 에테르이다. 같은 분자식이어도 연결 방식과 작용기가 달라 물성이 달라질 수 있다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68847.txt",
+        "sha256": "c0c82630ab5c3a8d93acff508ddfe59fb8ee7ad5d7df6160d8540a5bbe2efcea",
+        "locator": "Chemistry 2e / m68847",
+        "quote": "Write the condensed structures of both isomers with the formula C2H6O."
+      }
+    ]
+  },
+  {
+    "key": "glycerol-hydroxyl",
+    "question": "글리세린(글리세롤)의 구조적 특징을 옳게 나타낸 것은?",
+    "correct": "하이드록시기를 세 개 가진 알코올이다",
+    "wrong": [
+      "산소가 없는 방향족 탄화수소이다",
+      "카복실기만 가진 강산이다",
+      "C=O만 두 개 가진 케톤이다"
+    ],
+    "explanation": "글리세롤은 1,2,3-프로페인트라이올로 –OH 세 개를 갖는다. 물질의 이름·작용기를 함께 익히되, 이 구조만으로 법적 지정수량을 추정하지 않는다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68847.txt",
+        "sha256": "c0c82630ab5c3a8d93acff508ddfe59fb8ee7ad5d7df6160d8540a5bbe2efcea",
+        "locator": "Chemistry 2e / m68847",
+        "quote": "1,2,3-propanetriol (glycerine, used as a solvent for cosmetics and medicines): Naming Alcohols The name of an alcohol comes from the hydrocarbon from which it was derived."
+      }
+    ]
+  },
+  {
+    "key": "ether-naming",
+    "question": "CH₃–O–CH₂CH₃의 관용명과 에테르 구조를 올바르게 연결한 것은?",
+    "correct": "메틸에틸에테르: 산소가 두 탄화수소기를 연결한다",
+    "wrong": [
+      "에탄올: 탄소가 산소 없이 연결한다",
+      "아세트산: –COOH를 가진다",
+      "아세톤: 카보닐 탄소가 두 메틸기와 연결한다"
+    ],
+    "explanation": "이 분자는 메틸기와 에틸기가 –O–를 사이에 두고 연결된 에테르이다. 알코올의 –OH나 케톤의 C=O와 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68847.txt",
+        "sha256": "c0c82630ab5c3a8d93acff508ddfe59fb8ee7ad5d7df6160d8540a5bbe2efcea",
+        "locator": "Chemistry 2e / m68847",
+        "quote": "ethylmethyl ether: Naming Ethers Provide the IUPAC and common name for the ether shown here: Solution IUPAC: The molecule is made up of an ethoxy group attached to an ethane chain, so the IUPAC name would be ethoxyethane."
+      }
+    ]
+  },
+  {
+    "key": "aldehyde-position",
+    "question": "알데하이드의 카보닐 탄소와 반드시 직접 연결되어 있는 것은?",
+    "correct": "수소 원자",
+    "wrong": [
+      "질소 원자",
+      "염소 원자",
+      "두 개의 메틸기"
+    ],
+    "explanation": "알데하이드는 –CHO를 갖는다. 카보닐 탄소가 두 탄소기에 연결된 케톤과 구별하는 핵심이다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "Aldehydes, Ketones, Carboxylic Acids, and Esters\nAnother class of organic molecules contains a carbon atom connected to an oxygen atom by a double bond, commonly called a carbonyl group."
+      }
+    ]
+  },
+  {
+    "key": "acetone-ketone",
+    "question": "아세톤을 구조에 따라 분류한 것으로 옳은 것은?",
+    "correct": "케톤",
+    "wrong": [
+      "에테르",
+      "카복실산",
+      "아민"
+    ],
+    "explanation": "아세톤 CH₃COCH₃은 카보닐 탄소에 두 메틸기가 결합한 케톤이다. 용제라는 사용 목적과 화학적 작용기 분류를 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "acetone, is the simplest ketone."
+      }
+    ]
+  },
+  {
+    "key": "carboxyl-ester",
+    "question": "카복실산 R–COOH가 에스터 R–COOR′로 바뀔 때 구조상 달라지는 부분은?",
+    "correct": "–COOH의 H가 탄화수소기 R′로 바뀐다",
+    "wrong": [
+      "카보닐의 산소가 모두 없어진다",
+      "탄소가 전부 질소로 바뀐다",
+      "이중결합이 반드시 삼중결합이 된다"
+    ],
+    "explanation": "에스터는 카복실산의 –OH 쪽 수소 대신 탄화수소기가 결합한 구조로 볼 수 있다. C=O와 C–O가 모두 있다는 점을 단순 에테르와 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "Esters\nAnother class of organic molecules contains a carbon atom connected to an oxygen atom by a double bond, commonly called a carbonyl group."
+      }
+    ]
+  },
+  {
+    "key": "ester-formation",
+    "question": "카복실산과 알코올의 반응으로 물이 빠져나가면서 형성되는 유기화합물 계열은?",
+    "correct": "에스터",
+    "wrong": [
+      "알케인",
+      "금속 수소화물",
+      "염소산염"
+    ],
+    "explanation": "에스터화는 카복실산과 알코올의 작용기가 반응해 에스터와 물을 형성하는 변화이다. 물리적 혼합과 구별하며, 이 문항은 제조 조건이나 작업 절차를 제시하지 않는다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "Esters\nAnother class of organic molecules contains a carbon atom connected to an oxygen atom by a double bond, commonly called a carbonyl group."
+      }
+    ]
+  },
+  {
+    "key": "acetic-concentrated",
+    "question": "순수한 아세트산을 식초와 같은 위험 수준으로 취급하면 안 되는 이유는?",
+    "correct": "순수한 아세트산은 부식성이 있어 심한 화상을 일으킬 수 있다",
+    "wrong": [
+      "식초와 순수 아세트산의 농도는 항상 같다",
+      "순수 아세트산은 물과 절대 섞이지 않는다",
+      "유기산은 모두 피부에 무해하다"
+    ],
+    "explanation": "식초는 묽은 용액인 반면 순수 아세트산은 부식성 물질이다. 같은 물질명이라도 농도와 상태가 유해성에 영향을 준다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b",
+        "locator": "Chemistry 2e / m68848",
+        "quote": "Pure acetic acid has a penetrating odor and produces painful burns."
+      }
+    ]
+  },
+  {
+    "key": "amine-lone-pair",
+    "question": "아민의 질소가 브뢴스테드 염기로 작용할 수 있는 구조적 이유는?",
+    "correct": "질소의 비공유 전자쌍으로 H⁺를 받아들일 수 있다",
+    "wrong": [
+      "질소에는 전자가 없기 때문이다",
+      "모든 아민이 금속 수소화물이기 때문이다",
+      "질소가 반드시 네 개의 산소와 결합하기 때문이다"
+    ],
+    "explanation": "아민의 질소에는 비공유 전자쌍이 있어 양성자와 결합할 수 있다. 분자 구조와 산·염기 성질을 연결한 설명이다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68849.txt",
+        "sha256": "c5c3596deba4df452f101632d3f8b7abd2e70dbd549477f9758b5edb1746525e",
+        "locator": "Chemistry 2e / m68849",
+        "quote": "lone pair of electrons and three bonds to other atoms, either carbon or hydrogen."
+      }
+    ]
+  },
+  {
+    "key": "amide-functional",
+    "question": "아마이드의 작용기를 아민과 구별하는 핵심 연결은?",
+    "correct": "질소가 카보닐 탄소에 연결되어 있다",
+    "wrong": [
+      "탄소와 질소가 전혀 결합하지 않는다",
+      "산소가 없는 벤젠 고리만 있다",
+      "탄소 대신 나트륨이 중심 원자이다"
+    ],
+    "explanation": "아마이드는 –C(=O)–N– 연결을 가진다. 질소가 있다는 사실만으로 모두 아민으로 분류하면 안 된다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68849.txt",
+        "sha256": "c5c3596deba4df452f101632d3f8b7abd2e70dbd549477f9758b5edb1746525e",
+        "locator": "Chemistry 2e / m68849",
+        "quote": "Amides\nAmines are molecules that contain carbon-nitrogen bonds."
+      }
+    ]
+  },
+  {
+    "key": "alkane-unsaturation",
+    "question": "에테인(CH₃–CH₃), 에텐(CH₂=CH₂), 에타인(HC≡CH)의 탄소 간 결합을 순서대로 연결한 것은?",
+    "correct": "단일결합·이중결합·삼중결합",
+    "wrong": [
+      "이중결합·삼중결합·단일결합",
+      "삼중결합·단일결합·이중결합",
+      "모두 이중결합"
+    ],
+    "explanation": "알케인·알켄·알카인은 탄소 간 결합으로 구별한다. 개별 결합 수만 바꾼 반복 문제 대신 세 구조를 함께 비교한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "Alkanes Alkanes, or saturated hydrocarbons, contain only single covalent bonds between carbon atoms."
+      }
+    ]
+  },
+  {
+    "key": "aromatic-benzene",
+    "question": "벤젠 고리의 탄소–탄소 결합을 고정된 단일·이중결합의 단순 교대로만 설명하면 부족한 이유는?",
+    "correct": "고리 전체에 전자가 비편재화되어 결합이 동등하게 나타나기 때문이다",
+    "wrong": [
+      "벤젠에는 탄소가 없기 때문이다",
+      "고리의 모든 결합이 금속결합이기 때문이다",
+      "모든 탄소가 이온으로 분리되어 있기 때문이다"
+    ],
+    "explanation": "벤젠은 방향족 구조이며 단일한 고정 루이스 구조보다 공명으로 설명한다. 이것은 벤젠의 발암성과 별개인 분자 구조 학습이다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "Benzene, C6H6, is the simplest member of a large family of hydrocarbons, called aromatic hydrocarbons."
+      }
+    ]
+  },
+  {
+    "key": "alkene-addition",
+    "question": "알켄의 탄소–탄소 이중결합에 다른 원자나 원자단이 더해지는 반응의 분류는?",
+    "correct": "첨가반응",
+    "wrong": [
+      "물리적 여과",
+      "승화",
+      "동위원소 붕괴"
+    ],
+    "explanation": "이중결합의 일부가 끊어지며 원자나 원자단이 결합하는 변화는 첨가반응이다. 포화 탄화수소의 치환반응과 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "addition reaction."
+      }
+    ]
+  },
+  {
+    "key": "hydrocarbon-products",
+    "question": "탄소와 수소만으로 된 탄화수소가 충분한 산소에서 완전연소할 때의 주 생성물 조합은?",
+    "correct": "이산화탄소와 물",
+    "wrong": [
+      "질산과 염화수소",
+      "아세틸렌과 암모니아",
+      "황산과 산화마그네슘"
+    ],
+    "explanation": "탄화수소에는 C와 H가 있으므로 완전연소 생성물은 CO₂와 H₂O이다. 불완전연소에서는 CO나 그을음 등이 발생할 수 있어 환기·노출 위험도 관리한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "Combustion is one such reaction: CH4(g)+2O2(g)⟶CO2(g)+2H2O(g) Alkanes burn in the presence of oxygen, a highly exothermic oxidation-reduction reaction that produces carbon dioxide and water."
+      }
+    ]
+  },
+  {
+    "key": "carbon-chain-branching",
+    "question": "같은 분자식의 알케인에서 탄소 골격의 가지치기가 달라질 때 가능한 현상은?",
+    "correct": "구조 이성질체가 되어 끓는점 등 물성이 달라질 수 있다",
+    "wrong": [
+      "원소의 원자번호가 바뀐다",
+      "화학식이 같으면 끓는점도 반드시 같다",
+      "가지가 생기면 탄소가 금속으로 바뀐다"
+    ],
+    "explanation": "원자의 연결이 바뀌면 구조 이성질체가 된다. 분자식만으로 인화·휘발성 등 물성이 모두 같다고 판단하면 안 된다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "Isomers methane CH4 –182.5 –161.5 gas 1 ethane C2H6 –183.3 –88.6 gas 1 propane C3H8 –187.7 –42.1 gas 1 butane C4H10 –138.3 –0.5 gas 2 pentane C5H12 –129.7 36.1 liquid 3 hexane C6H14 –95.3 68.7 liquid 5 heptane C7H16 –90.6 98.4 liquid 9 octane C8H18 –56.8 125.7 liquid 18 nonane C9H20 –53.6 150.8 liquid 35 decane C10H22 –29.7 174.0 liquid 75 tetradecane C14H30 5.9 253.5 solid 1858 octadecane C18H38 28.2 316.1 solid 60,523 Hydrocarbons with the same formula, including alkanes, can have different structures."
+      }
+    ]
+  },
+  {
+    "key": "polymerization-ethylene",
+    "question": "에텐 같은 작은 분자가 반복 연결되어 폴리에틸렌을 만드는 변화는?",
+    "correct": "중합",
+    "wrong": [
+      "침전 여과",
+      "동결",
+      "기체 확산"
+    ],
+    "explanation": "단위체가 반복적으로 연결되어 고분자를 만드는 것이 중합이다. 화학적 연결이 일어나는 변화이므로 단순 혼합·상변화와 다르다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2",
+        "locator": "Chemistry 2e / m68846",
+        "quote": "polyethylene, polypropylene, and polystyrene are also hydrocarbons."
+      }
+    ]
+  },
+  {
+    "key": "oxygen-depends-oxidation",
+    "question": "일산화탄소가 산소와 더 반응하여 이산화탄소가 될 수 있는 까닭은?",
+    "correct": "탄소가 더 높은 산화 상태로 산화될 수 있기 때문이다",
+    "wrong": [
+      "일산화탄소에는 탄소가 없기 때문이다",
+      "일산화탄소는 헬륨의 동위원소이기 때문이다",
+      "산소는 모든 조건에서 반응하지 않기 때문이다"
+    ],
+    "explanation": "CO의 탄소는 CO₂에서보다 낮은 산화수이다. 산화물을 모두 불연성이라고 일반화해서는 안 된다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68837.txt",
+        "sha256": "b993180415940c0b5c2fc97bf79723dbaa4f92a62099d17bbbd4ad8d9197ccd2",
+        "locator": "Chemistry 2e / m68837",
+        "quote": "CO and P4O6 that contain an element with a lower oxidation state."
+      }
+    ]
+  },
+  {
+    "key": "sulfide-air-oxidation",
+    "question": "황화수소가 산소와 반응하여 물과 이산화황을 생성할 때 황화수소의 역할은?",
+    "correct": "산화되는 환원제",
+    "wrong": [
+      "오직 불활성 희석제",
+      "변화하지 않는 촉매",
+      "산소를 생성하는 전해질만의 역할"
+    ],
+    "explanation": "H₂S의 황은 –2에서 SO₂의 +4로 산화된다. 따라서 H₂S는 산화되는 환원제이며, 산소는 환원된다. 독성·연소 위험이 함께 있는 물질이다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68837.txt",
+        "sha256": "b993180415940c0b5c2fc97bf79723dbaa4f92a62099d17bbbd4ad8d9197ccd2",
+        "locator": "Chemistry 2e / m68837",
+        "quote": "2H2S(g)+3O2(g)⟶2H2O(l)+2SO2(g) It is also possible to oxidize oxides such as CO and P4O6 that contain an element with a lower oxidation state."
+      }
+    ]
+  },
+  {
+    "key": "nitric-copper-concentration",
+    "question": "구리와 질산의 반응에서 주 질소산화물 생성물이 농도에 따라 달라질 수 있다는 설명으로 옳은 것은?",
+    "correct": "묽은 질산에서는 NO, 진한 질산에서는 NO₂가 대표적이다",
+    "wrong": [
+      "어떤 농도에서도 질소산화물은 생성되지 않는다",
+      "묽은 질산에서는 항상 헬륨만 생성된다",
+      "진한 질산에서는 산소 원자가 모두 소멸한다"
+    ],
+    "explanation": "질산은 산화제로 작용하며 농도 등에 따라 환원 생성물이 달라진다. 발생 NO도 공기 중에서 산화될 수 있으므로 무색이라는 이유로 안전하다고 판단하지 않는다.",
+    "criterionIds": [
+      "Q07.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68835.txt",
+        "sha256": "d69b0629a35279f0547cd41cb1aed66d1a27233c78e4d386de2b21b0ec4fc4ab",
+        "locator": "Chemistry 2e / m68835",
+        "quote": "copper reacts with dilute nitric acid, nitric oxide is the principal reduction product: 3Cu(s)+8HNO3(aq)⟶2NO(g)+3Cu(NO3)2(aq)+4H2O(l) Gaseous nitric oxide is the most thermally stable of the nitrogen oxides and is the simplest known thermally stable molecule with an unpaired electron."
+      }
+    ]
+  },
+  {
+    "key": "phosphoric-acid-triprotic",
+    "question": "인산 H₃PO₄의 수소 이온 방출을 설명한 것으로 옳은 것은?",
+    "correct": "세 단계로 해리할 수 있는 삼양성자산이다",
+    "wrong": [
+      "수소가 없으므로 산이 아니다",
+      "항상 한 단계에서만 세 수소가 완전히 해리한다",
+      "염소 이온만 방출한다"
+    ],
+    "explanation": "인산은 세 개의 해리 가능한 수소를 가지며 단계별 산 해리 평형을 이룬다. 분자식의 수소 수와 실제 단계별 산 세기를 구별한다.",
+    "criterionIds": [
+      "Q01.01.03"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68807.txt",
+        "sha256": "54da1095f7644369ef7bd74f4fc5838fbdf4e96437677d64b271a06039bb2574",
+        "locator": "Chemistry 2e / m68807",
+        "quote": "A triprotic acid is an acid that has three ionizable H atoms."
+      }
+    ]
+  },
+  {
+    "key": "white-p-solubility",
+    "question": "황린의 용해성에 대한 설명으로 옳은 것은?",
+    "correct": "물에는 녹지 않지만 이황화탄소에는 잘 녹는다",
+    "wrong": [
+      "물과 이황화탄소 모두에 어떤 조건에서도 녹지 않는다",
+      "물에만 잘 녹고 이황화탄소에는 녹지 않는다",
+      "모든 유기용매에 녹지 않는다"
+    ],
+    "explanation": "황린은 물에 불용성이며 이황화탄소에 잘 녹는다. 물속 보관 목적은 공기 차단이지 황린을 물에 용해시키는 것이 아니다.",
+    "criterionIds": [
+      "Q04.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68832.txt",
+        "sha256": "eeaddac2d7eecb903f0d5ad1355e1ccaa07dc19b02b018e66a8f4ac34c08cb1c",
+        "locator": "Chemistry 2e / m68832",
+        "quote": "It is insoluble in water (in which it is stored—see ), is very soluble in carbon disulfide, and bursts into flame in air."
+      }
+    ]
+  },
+  {
+    "key": "red-p-network",
+    "question": "적린과 황린의 반응성 차이를 설명한 것으로 옳은 것은?",
+    "correct": "적린은 고분자적 연결 구조를 가지며 황린보다 반응성이 훨씬 낮다",
+    "wrong": [
+      "적린은 황린과 언제나 동일한 분자 배열이다",
+      "적린은 탄소만으로 되어 있다",
+      "두 동소체의 반응성 차이는 전혀 없다"
+    ],
+    "explanation": "같은 인 원소라도 동소체에 따라 구조와 반응성이 다르다. 적린이 상대적으로 안정하다는 말이 불연성 또는 위험물 제외를 뜻하지는 않는다.",
+    "criterionIds": [
+      "Q03.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68832.txt",
+        "sha256": "eeaddac2d7eecb903f0d5ad1355e1ccaa07dc19b02b018e66a8f4ac34c08cb1c",
+        "locator": "Chemistry 2e / m68832",
+        "quote": "Red phosphorus is much less reactive than is white phosphorus."
+      }
+    ]
+  },
+  {
+    "key": "magnesium-co2-reduction",
+    "question": "연소 중인 마그네슘에 이산화탄소가 적합하지 않을 수 있는 직접적인 화학적 이유는?",
+    "correct": "마그네슘이 이산화탄소를 환원시키며 계속 반응할 수 있다",
+    "wrong": [
+      "이산화탄소가 항상 염소로 변하기 때문이다",
+      "마그네슘은 어떤 산소 함유 물질과도 반응하지 않기 때문이다",
+      "이산화탄소에는 산소 원자가 없기 때문이다"
+    ],
+    "explanation": "마그네슘은 CO₂의 산소와 결합하여 MgO를 만들 수 있다. 산소 농도를 낮추는 일반 화재 소화 원리만으로 금속 화재 적응성을 판단하면 안 된다.",
+    "criterionIds": [
+      "Q03.03.01"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68829.txt",
+        "sha256": "03d9598ec37d9cb2040261015b8b50f749d33ba73e2d38aa6a918f7856b06f90",
+        "locator": "Chemistry 2e / m68829",
+        "quote": "burning magnesium reacts with carbon dioxide, producing elemental carbon: 2Mg(s)+CO2(g)⟶2MgO(s)+C(s) For this reason, a CO2 fire extinguisher will not extinguish a magnesium fire."
+      }
+    ]
+  },
+  {
+    "key": "phosphorus-molecule",
+    "question": "황린을 이루는 P₄ 분자의 기본 형태는?",
+    "correct": "인 원자 네 개로 이루어진 정사면체",
+    "wrong": [
+      "인 원자 한 개와 산소 세 개의 평면",
+      "탄소 원자 여섯 개의 고리",
+      "서로 분리된 인 이온만의 집합"
+    ],
+    "explanation": "황린은 P₄ 분자로 존재하며 인 원자 네 개가 정사면체를 이룬다. 원소의 종류가 같아도 원자 연결에 따라 성질이 달라진다.",
+    "criterionIds": [
+      "Q04.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68832.txt",
+        "sha256": "eeaddac2d7eecb903f0d5ad1355e1ccaa07dc19b02b018e66a8f4ac34c08cb1c",
+        "locator": "Chemistry 2e / m68832",
+        "quote": "tetrahedral P4 molecules while nitrogen consists of diatomic N2 molecules?\nacid anhydride compound that reacts with water to form an acid or acidic solution disproportionation reaction chemical reaction where a single reactant is simultaneously reduced and oxidized; it is both the reducing agent and the oxidizing agent\n"
+      }
+    ]
+  },
+  {
+    "key": "sulfur-rhombic",
+    "question": "보통의 안정한 사방황(노란 황)에서 대표적인 분자 형태는?",
+    "correct": "S₈ 고리",
+    "wrong": [
+      "단원자 S만 존재",
+      "S₂ 직선 분자만 존재",
+      "탄소를 포함한 벤젠 고리"
+    ],
+    "explanation": "보통의 안정한 황은 S₈ 고리 분자를 이룬다. 황의 연소 생성물과는 별개의 분자 구조를 묻는 문항이다.",
+    "criterionIds": [
+      "Q03.01.02"
+    ],
+    "topic": "위험물의 화학적 성질",
+    "evidence": [
+      {
+        "sourceId": "openstax-chemistry-2025",
+        "snapshot": "docs/sources/chemistry-2e/m68832.txt",
+        "sha256": "eeaddac2d7eecb903f0d5ad1355e1ccaa07dc19b02b018e66a8f4ac34c08cb1c",
+        "locator": "Chemistry 2e / m68832",
+        "quote": "S8 molecules in which atoms form eight-membered, puckered rings that resemble crowns, as illustrated in ."
+      }
+    ]
+  },
+  {
+    "key": "class5-physical-state",
+    "question": "시행령 별표 1 비고에서 자기반응성물질의 물리적 상태로 규정한 범위는?",
+    "correct": "고체 또는 액체",
+    "wrong": [
+      "기체만 해당",
+      "고체만 해당",
+      "플라스마만 해당"
+    ],
+    "explanation": "자기반응성물질은 고체 또는 액체로서 폭발 또는 가열분해의 격렬함을 시험하여 정하는 성질을 갖는 물질이다. 제5류를 모두 고체라고 외우면 안 된다.",
+    "criterionIds": [
+      "Q06.01.02"
+    ],
+    "topic": "제5류 위험물",
+    "evidence": [
+      {
+        "sourceId": "hazardous-materials-law",
+        "snapshot": "docs/sources/decree-schedule-1.txt",
+        "sha256": "b766d8933408a6e8104c04900de1ffac31b92ba09c880cd8266e0a8283e633e2",
+        "locator": "19. \"자기반응성물질\"",
+        "quote": "19. \"자기반응성물질\"이란 고체 또는 액체로서 폭발의 위험성 또는 가열분해의\n 격렬함을 판단하기 위하여 고시로 정하는 시험에서 고시로 정하는 성질과 상\n 태를 나타내는 것을 말하며, 위험성 유무와 등급에 따라 제1종 또는 제2종으\n 로 분류한다.\n20. 제5류제11호의 물품에 있어서는 유기과산화물을 함유하는 것 중에서 불활성\n 고체를 함유하는 것으로서 다음 각목의 1에 해당하는 것은 제외한다.\n 가. 과산화벤조일의 함유량이 35.5중량퍼센트 미만인 것으로서 전분가루, 황산\n  칼슘2수화물 또는 인산수소칼슘2수화물과의 혼합물\n 나. 비스(4-클로로벤조일)퍼옥사이드의 함유량이 30중량퍼센트 미만인 것으로\n  서 불활성고체와의 혼합물\n 다. 과산화다이쿠밀의 함유량이 40중량퍼센트 미만인 것으로서 불활성고체와\n  의 혼합물\n 라. 1ᆞ4비스(2-터셔리뷰틸퍼옥시아이소프로필)벤젠의 함유량이 40중량퍼센\n  트 미만인 것으로서 불활성고체와의 혼합물\n 마. 사이클로헥산온퍼옥사이드의 함유량이 30중량퍼센트 미만인 것으로서 불\n  활성고체와의 혼합물\n21. \"산화성액체\"라 함은 액체로서 산화력의 잠재적인 위험성을 판단하기 위하여\n 고시로 정하는 시험에서 고시로 정하는 성질과 상태를 나타내는 것을 말한다.",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  },
+  {
+    "key": "transport-different-signs",
+    "question": "이동탱크저장소의 각 구획실에 UN번호 또는 그림문자가 다른 위험물을 저장한 경우 위험성 경고표지는?",
+    "correct": "해당 위험물의 UN번호 또는 그림문자를 모두 표시한다",
+    "wrong": [
+      "한 구획실의 표지만 임의로 선택한다",
+      "표지를 전부 생략한다",
+      "모든 구획실에 물이라는 표지만 표시한다"
+    ],
+    "explanation": "위험성 경고표지 기준 제3조제2항은 구획실별 UN번호 또는 그림문자가 다르면 해당 번호 또는 그림문자를 모두 표시하도록 한다. 운반차량에 적용되는 별도의 예외를 이동탱크 운송에 그대로 대입하지 않는다.",
+    "criterionIds": [
+      "Q08.01.04"
+    ],
+    "topic": "위험물 운반 및 운송",
+    "evidence": [
+      {
+        "sourceId": "hm-warning",
+        "snapshot": "docs/sources/hm-warning.txt",
+        "sha256": "26f298936bddf3be2edeed424b211da42fab0bfcd885fa3b3030998bf8e55cc0",
+        "locator": "② 이동탱크저장소의 각 구획실에",
+        "quote": "② 이동탱크저장소의 각 구획실에 UN번호 또는 그림문자가 다른 위험물을 저장하는 경우에는 해당 위험물의 UN번호 또는 그림문자를 모두 표시하여야 한다.",
+        "effectiveDate": "2017-07-26"
+      }
+    ]
+  },
+  {
+    "key": "transport-overheat-avoid",
+    "question": "위험물을 차량으로 운반할 때 별표 19의 안전기준에 비추어 피해야 하는 것은?",
+    "correct": "마찰·동요가 심하게 일어나도록 거칠게 운반한다",
+    "wrong": [
+      "용기를 안전하게 적재한다",
+      "운반 중 위험물 상태에 주의한다",
+      "물질의 성질에 맞는 용기를 사용한다"
+    ],
+    "explanation": "차량 운반에서는 위험물이나 운반용기가 현저하게 마찰 또는 동요를 일으키지 않도록 해야 한다. 단순히 용기를 실었다는 사실만으로 운반 중 안전기준을 만족하는 것은 아니다.",
+    "criterionIds": [
+      "Q08.02.04"
+    ],
+    "topic": "위험물 운반 및 운송",
+    "evidence": [
+      {
+        "sourceId": "hm-rules",
+        "snapshot": "docs/sources/rules-schedule-19.txt",
+        "sha256": "79a8a9fd490dd3a0019f58f454048cbd9be174b202957efa22315ef292c5c258",
+        "locator": "마찰 또는 동요",
+        "quote": "마찰 또는 동요를 일",
+        "effectiveDate": "2026-07-01"
+      }
+    ]
+  }
+]

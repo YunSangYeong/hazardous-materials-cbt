@@ -1,0 +1,6 @@
+[
+ {"id":"HM0034","equation":"S + O₂ → SO₂","left":[[1,"S"],[1,"O2"]],"right":[[1,"SO2"]]},
+ {"id":"HM0037","equation":"2Na + 2H₂O → 2NaOH + H₂","left":[[2,"Na"],[2,"H2O"]],"right":[[2,"NaOH"],[1,"H2"]]},
+ {"id":"HM0039","equation":"CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂","left":[[1,"CaC2"],[2,"H2O"]],"right":[[1,"Ca(OH)2"],[1,"C2H2"]]},
+ {"id":"HM0052","equation":"2H₂O₂ → 2H₂O + O₂","left":[[2,"H2O2"]],"right":[[2,"H2O"],[1,"O2"]]}
+]

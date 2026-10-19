@@ -1,0 +1,198 @@
+[
+  {
+    "ids": [
+      "HM0007",
+      "HM0993"
+    ],
+    "fingerprints": [
+      "b8dfe0a56bf3bcd239fe3b2e8aa3100622f811108e8f17bdf9146acd48aed791",
+      "858bb25bf808b575fe662e95be19270d9bced40659f905b03711aa07b9e3ebf2"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "공통 어미 때문에 검출됨. 촉매의 활성화에너지와 황린의 용해성은 물리량·물질·학습 목표 모두 다르다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0182",
+      "HM0183"
+    ],
+    "fingerprints": [
+      "c621d51e8b24acfc5de16f5624ae933e36c48a9f303f761911fafb4c571e0441",
+      "22789db0f7eaa0c63112e4269d26d2674b2026097873d609a305e7a77f3505d4"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "1족 알칼리금속과 2족 알칼리토금속이라는 서로 다른 원소군·대표 원소를 구별한다. 숫자 조건만 바꾼 계산 문제가 아니다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0278",
+      "HM0281"
+    ],
+    "fingerprints": [
+      "6fe4b09864396af8406497471de0808466cb82f4c55ddb67835d62526cb0de4e",
+      "076706ce9325c5b250d2330dbde4af4e7c21abfb50e35257070190523b00c4ce"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "응축은 기체→액체, 융해는 고체→액체이다. 출발 상태와 분자간 상호작용이 다른 상변화 용어를 각각 확인한다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0302",
+      "HM0303"
+    ],
+    "fingerprints": [
+      "bbb79b72a01ec340c92bff515f333bb875f27cbbc5c7fad5d8b1280e654a957b",
+      "36aec5188babb0ca6293bf82b89113d95e6a0b74c1776c8bb97bb62305ff59b4"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "액체-기체 평형의 끓는점 오름과 고체-액체 평형의 어는점 내림은 서로 다른 총괄성이다. 원인 물질의 양만 바꾼 반복 계산이 아니다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0369",
+      "HM0370"
+    ],
+    "fingerprints": [
+      "f06dfc63e7e9721bb5f5d88989ad2808243a0f1a34d5c59dca6eab99788fbe5a",
+      "4a1fa48548cfaf5465609fc7c3d153d0496515978599fcfc1336dbcb6baaaab3"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "NFPC 101의 별도 정의이다. 캐비닛 형태를 식별하는 용어와 사용하는 약제가 가스계라는 용어를 구별하며, 문제는 해당 정의 원문을 묻는다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0404",
+      "HM0405"
+    ],
+    "fingerprints": [
+      "7869f38a474bc8e27ad61da8a7d1829d889d1798921969574e17df64ebb9be66",
+      "1b52659a4c233348922744ee68c2210fa5ee5e6fb31fcc9f81490717adb0954e"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "밀폐 방호구역 전체에 방출하는 전역 방식과 직접 화점에 방출하는 국소 방식은 적용 공간과 설계 목적이 다르다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0407",
+      "HM0408"
+    ],
+    "fingerprints": [
+      "039d157a0c7da74c8f8c8bdd0892675d2d143a8c3c8f94d4e2d930f13af3cb2b",
+      "91a725b117c6729bdcd59833b0d1916e0acda4d63ed42c44021e18bb33a9b8bd"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "호스릴을 사용하는 포소화설비와 소화전 방수구·호스를 사용하는 포소화전설비는 구성과 사용 방식이 다르다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0411",
+      "HM0412"
+    ],
+    "fingerprints": [
+      "e96683abcf0dec15cd1eb54c19f261ef9b174513c2b4807756e1f3b22aff1434",
+      "15bfa2dc2cdb46981e28fb84380dbcec92c7fd3d1dbf85818c1ce92aa78c73e1"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "프레셔 방식은 벤추리 외에 가압수의 약제탱크 압력을 이용한다. 라인 방식은 벤추리 작용을 이용한다. 혼합 기구 차이를 읽는 별도 정의이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0418",
+      "HM0432"
+    ],
+    "fingerprints": [
+      "f9dac4ba34874a7d3a77c8e8e9a04e4e9973dda47c3eacb1bcc148145213339f",
+      "06f4b38e9ce4c7b6f07ded4fad38cc24494e4f83e467dc6da85ac496b067f4d3"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "충전비는 용적/중량, 충전밀도는 중량/용적이다. 서로 역수인 물리량과 단위를 구별하는 별도 학습 목표이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0434",
+      "HM0435"
+    ],
+    "fingerprints": [
+      "9bdcbf164190849d0545fb7fac0ab2b164cd59fec69ce1b81c23d5d576f05d69",
+      "9c75c4ad67fb531bce8a576d6ba5aedbb7ae6dc1110e3aecdfcaaa094947d7fd"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "주성분이 탄산수소나트륨인 제1종과 탄산수소칼륨인 제2종이다. 동일 수치를 바꾼 문제가 아니라 다른 화합물의 소화약제 분류이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0434",
+      "HM0436"
+    ],
+    "fingerprints": [
+      "9bdcbf164190849d0545fb7fac0ab2b164cd59fec69ce1b81c23d5d576f05d69",
+      "395b40b5bf73f8f84b9242d2a81423dba1a7d706be1751588327f7d2a31e4143"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "탄산수소나트륨계 제1종과 인산염계 제3종은 화학 조성 및 적응 화재가 다른 소화약제 분류이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0435",
+      "HM0436"
+    ],
+    "fingerprints": [
+      "9c75c4ad67fb531bce8a576d6ba5aedbb7ae6dc1110e3aecdfcaaa094947d7fd",
+      "395b40b5bf73f8f84b9242d2a81423dba1a7d706be1751588327f7d2a31e4143"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "탄산수소칼륨계 제2종과 인산염계 제3종은 화학 조성이 다른 소화약제 분류이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0444",
+      "HM0445"
+    ],
+    "fingerprints": [
+      "22f2fac9e4f94d0f4c1379c9a9232f47bd943558050a77151acab07cf83412b6",
+      "232d2ac8ed8766bb929689e70365a5fad1eef67497c0af2bce483f0cfda85ebe"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "교대하여 연속 사용 가능한 완강기와 연속 사용이 불가능한 간이완강기는 피난 계획에 영향을 주는 별도의 기구이다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  },
+  {
+    "ids": [
+      "HM0645",
+      "HM0926"
+    ],
+    "fingerprints": [
+      "7767463bf608583f58e5107aa42fbc7852f5978b523085da68c292b6d8035e2f",
+      "15dc1f3972c31e144e8ba281ad1956a8ca12637c4532e7b73e8960dd9745d821"
+    ],
+    "decision": "distinct-learning-goals",
+    "reason": "노즐의 방사 성능(질량/시간)과 보유 약제량(질량)은 다른 물리량과 점검 항목이다. 유량 숫자만 바꾼 반복 문제가 아니다.",
+    "reviewer": "Codex · 의미 중복 내부검토",
+    "reviewedAt": "2026-10-19"
+  }
+]

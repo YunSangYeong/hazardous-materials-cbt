@@ -1,1 +1,94 @@
-# hazardous-materials-cbt
+# 위험물기능사 필기 CBT 모의시험
+
+**1,000문항을 수록한 비공식 학습용 모의시험입니다.** Q-Net 2025–2029 출제기준의 공식 단일 과목 **위험물의 성질 및 안전관리**를 적용했습니다. 기존 [electrician-cbt](https://github.com/YunSangYeong/electrician-cbt)의 색상·사이드바·카드와 시험 흐름을 참고하여 별도의 정적 웹앱으로 구현했습니다. 기존 저장소는 변경하지 않았습니다.
+
+## 문제은행
+
+2026-10-19 기준, **HM0001–HM1000의 실제 문항 1,000개**가 있습니다. ID만 바꾼 복제 문항이나 테스트용 합성 데이터를 넣지 않았습니다.
+
+| 구분 | A 화재예방과 소화방법 | B 위험물의 화학적 성질 및 취급 | 합계 |
+|---|---:|---:|---:|
+| 실제 문항 | 350 | 650 | **1,000** |
+| 내부검수 후 출제 가능 | 350 | 650 | **1,000** |
+| 검수 대기·미작성 | 0 | 0 | **0** |
+
+두 영역은 내부 학습 분류입니다. 공식 시험과목이 두 개라는 뜻이 아니며, 350/650은 공식 출제비율이 아닙니다. 공식 문서의 필기 1–6쪽에서 추적한 **11개 주요항목·110개 세세항목 모두에 내부검수 문항이 있습니다.** [항목별 현황](docs/COVERAGE.md)을 제공합니다. 실기 범위는 포함하지 않습니다.
+
+각 문항은 공식 과목명, 영역, 주제, 4개 보기, 정답 번호(1–4), 해설, 난이도, 공식 항목 ID, 출처·시행일·인용문·자료 해시, 내부검수 기록을 가집니다. 화학 개념·물성·유별 위험과 소화·계산·시설 점검·안전관리·법령을 다룹니다. 법령 문언 복원 문제 500개는 조항의 대상·조건·예외를 함께 읽도록 구성했습니다. 실제 기출문제라고 표시하지 않습니다.
+
+**내부검수는 외부 전문가의 독립검수 또는 공적 인증이 아닙니다.** 자동 검사 통과가 학문적 정확성을 보증하지 않습니다. [검수 과정과 한계](docs/CONTENT_REVIEW.md), [검증 결과](docs/TEST_RESULTS.md)를 구분해 기록했습니다.
+
+## 시험 기능
+
+- 1,000문항 중 중복 없이 60개 무작위 출제. A 21개·B 39개이며 영역 안에서는 세부 주제를 순환 배분합니다. 자체 학습 정책이며 공식 비율을 주장하지 않습니다.
+- 답안 선택·변경, 이전/다음, 번호 이동, 미응답 이동, 응답 현황, 제출 확인창.
+- 60분 카운트다운과 시간 종료 시 자동 제출. `localStorage`에 문제·답안·현재 위치·절대 종료시각을 저장하여 새로고침 시 복원합니다. 브라우저를 닫은 동안에도 시간이 연장되지 않으며, 만료 후 재접속하면 제출합니다.
+- 정답 수 ÷ 60 × 100을 소수 첫째 자리까지 표시(소수 둘째 자리에서 반올림). **36개 이상 정답이면 합격**, 과목별 과락 없음.
+- 총점, 합격/불합격, 정답·오답·미응답 수, 영역별 정답률. 오답과 미응답의 선택 답·정답·해설·근거 확인, 전체 해설 보기, 다시 시험보기.
+- PC·모바일 반응형, 44px 이상 선택지 터치 영역, 상단 타이머, 키보드 포커스, iframe. 문제은행 검색·영역 필터·해설 학습.
+- 시험 중 화면에는 정답·해설을 표시하지 않습니다. 정적 JSON에 정답이 포함된 자율학습 앱이며 감독 시험용 보안 시스템은 아닙니다. 타이머는 사용자 기기 시계에 의존합니다.
+
+## 실행
+
+앱은 HTML/CSS/JavaScript/JSON으로 동작하며 서버 API, 외부 CDN, 유료 서비스, 로그인은 필요하지 않습니다. Node/npm은 개발·테스트에만 사용합니다.
+
+```bash
+cd /workspace/hazardous-materials-cbt
+npm ci
+npm run dev
+```
+
+Python 3의 정적 서버를 사용합니다. 모듈과 JSON을 불러오므로 파일을 더블클릭하는 대신 HTTP 서버 또는 GitHub Pages에서 실행하세요.
+
+```bash
+npm run validate:release  # 1000개·검수 기록·출처·중복·공식 110개 항목 검사
+npm test                  # 63개 단위·출처·화학·계산 테스트
+npm run test:e2e          # 실제 은행 + 별도 기능용 fixture, PC/모바일 20개
+npm run coverage          # docs/COVERAGE.md 갱신
+npm run build             # _site 정적 배포 파일 생성
+```
+
+검증 환경: Node 24.19.0, npm 11.9.0, Python 3.12.14, 시스템 Chromium. 로컬 Playwright는 `/usr/bin/chromium`을 사용합니다. 다른 경로는 `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH`로 지정하세요. CI는 `npx playwright install --with-deps chromium`으로 브라우저를 준비합니다. E2E가 포트 4173을 사용하므로 개발 서버를 먼저 종료하세요.
+
+## GitHub Pages 배포
+
+정적 배포 산출물은 `_site/`에 있습니다. `.github/workflows/ci.yml`은 전체 검증, `.github/workflows/pages.yml`은 검증 후 수동 Pages 배포입니다. 워크플로는 문항 1,000개·검수·전체 범위를 만족하지 않으면 배포를 차단합니다.
+
+1. 이 프로젝트 변경을 `YunSangYeong/hazardous-materials-cbt` 저장소의 `main`에 반영합니다.
+2. GitHub **Settings → Pages → Source: GitHub Actions**를 선택합니다.
+3. **Actions → Release verified question bank to Pages → Run workflow**를 실행합니다.
+4. 배포 완료 후 공개 페이지에서 시험 시작과 새로고침 복원을 확인합니다.
+
+배포 후 사용할 주소:
+
+```text
+https://YunSangYeong.github.io/hazardous-materials-cbt/
+```
+
+위 주소는 **배포 후 예상 주소**입니다. 저장소 업로드와 Pages 공개 배포는 별도이며, 워크플로 성공 후 실제 공개 상태를 확인하세요. 환경 설정 초안을 저장하는 것과 GitHub Pages 게시도 서로 다릅니다.
+
+티스토리 글쓰기의 HTML 모드에 삽입할 코드:
+
+```html
+<iframe
+  src="https://YunSangYeong.github.io/hazardous-materials-cbt/"
+  title="위험물기능사 필기 CBT 모의시험"
+  width="100%"
+  height="1000"
+  style="display:block;max-width:100%;border:0;border-radius:12px;"
+  loading="lazy">
+</iframe>
+<p><a href="https://YunSangYeong.github.io/hazardous-materials-cbt/"
+      target="_blank" rel="noopener">모의시험을 새 창에서 열기</a></p>
+```
+
+브라우저가 iframe의 저장소 접근을 제한하면 저장 불가 안내를 표시하고 현재 창의 시험은 계속할 수 있습니다. 새 창 링크로 직접 실행할 수도 있습니다.
+
+## 출처·이용 조건
+
+- [Q-Net 출제기준 344 / 종목 6697](https://www.q-net.or.kr/pageLink.do?link=cst/cstReport&jmCd=6697&mcrtrNo=344), 2025.01.01–2029.12.31, 필기 1–6쪽.
+- 국가법령정보센터의 위험물안전관리법·시행령·시행규칙·위험물안전관리에 관한 세부기준, 운송·운반 경고표지 기준 및 NFPC/NFTC. **2026-10-19 대조**, 개별 시행일·위치는 [sources.json](data/sources.json)과 문항별 근거에 기록했습니다.
+- Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson / OpenStax, *Chemistry 2e*, [2025-12-05 고정 커밋](https://github.com/openstax/osbooks-chemistry-bundle/tree/466d8b1b9dbaee5d44d7184cd139ea4ef9179563), **CC BY 4.0**. 한국어 번역·요약 및 선다형 재구성입니다. 해당 판본의 라이선스를 보존했으며, 이후 라이선스가 다른 판본과 구별합니다. 원저자의 승인·감수를 의미하지 않습니다. 기존 연습문제나 그림을 복제하지 않았습니다.
+- 프로그램 코드: [MIT](LICENSE). 자체 제작 문항의 글: CC BY 4.0. 출처 문서 자체의 이용 조건은 각 원문을 따릅니다. [웹앱 출처 안내](attribution.html)도 제공합니다.
+
+법령 개정 또는 문항 수정 시 해당 원문·보기·해설·공식 항목·중복을 다시 검토하고 승인 기록을 갱신해야 합니다. `scripts/expand-bank.py`는 원고 구성 도구이며 새 문항을 자동 승인하지 않습니다. 설치 과정에서 원고 작성·승인 스크립트를 실행하지 않습니다.

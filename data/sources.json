@@ -1,0 +1,784 @@
+{
+  "authored-draft": {
+    "title": "프로젝트 자체 작성 예상문제 원고",
+    "type": "original",
+    "license": "CC BY 4.0",
+    "status": "pending-review"
+  },
+  "qnet-2025-2029": {
+    "title": "Q-Net 위험물기능사 출제기준 (2025.01.01–2029.12.31)",
+    "url": "https://www.q-net.or.kr/pageLink.do?link=cst/cstReport&jmCd=6697&mcrtrNo=344",
+    "type": "official-criteria",
+    "status": "read-official-written-pages",
+    "checkedAt": "2026-10-19",
+    "note": "공식 문서의 필기 1–6쪽에서 단일 과목명·60문항·1시간·110개 세세항목 확인. 종목 개요 페이지의 과거 2과목 표기는 새 출제기준으로 대체하여 해석.",
+    "snapshots": [
+      {
+        "path": "docs/sources/qnet-2025-2029-written.txt",
+        "sha256": "bbc2f35257fc06beb306ffe657f314dc4fb5d39fc5e947745d024e38881e6dce"
+      }
+    ]
+  },
+  "hazardous-materials-law": {
+    "title": "위험물안전관리법 시행령 (2026.07.01 시행) 및 현행 별표 1·4·5·6",
+    "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287381&efYd=20260701",
+    "type": "law",
+    "status": "read-current-decree-and-selected-schedules",
+    "checkedAt": "2026-10-19",
+    "note": "대통령령 제36432호. 본문과 별표 1·4·5·6을 직접 읽음. 법률·시행규칙 전체를 확보했다고 주장하지 않음. 별표 1 자체 최종 개정 표시는 2024.04.30.",
+    "effectiveDate": "2026-07-01",
+    "snapshots": [
+      {
+        "path": "docs/sources/decree-current.txt",
+        "sha256": "60dfd62626bafef4d8c7ff251157ef9d9148c16f5e5f269587dae8415a42832b"
+      },
+      {
+        "path": "docs/sources/decree-schedule-1.pdf",
+        "sha256": "16e9b4212569b1d7b5d07e2acea6f5c1ece7f26d8b78b0410c1d3f139705bf6c"
+      },
+      {
+        "path": "docs/sources/decree-schedule-1.txt",
+        "sha256": "b766d8933408a6e8104c04900de1ffac31b92ba09c880cd8266e0a8283e633e2"
+      },
+      {
+        "path": "docs/sources/decree-schedule-4.pdf",
+        "sha256": "1e4d5b4ca063c8e24f150d83d7e7669ef22f98e670e0242ac5faa7f80dc4b7cd"
+      },
+      {
+        "path": "docs/sources/decree-schedule-4.txt",
+        "sha256": "c492a7ee4dd083f3ae0e1b284d6610c88e739b05100d84e44ad75611edf0621f"
+      },
+      {
+        "path": "docs/sources/decree-schedule-5.pdf",
+        "sha256": "8f7c3be0c2f82d1977844771f1fb330e160e32321b7c1efa78cafe146e9163ff"
+      },
+      {
+        "path": "docs/sources/decree-schedule-5.txt",
+        "sha256": "8331753bf2f312c5e91808bb30b523374be05099035ae939a517d111571d5eb8"
+      },
+      {
+        "path": "docs/sources/decree-schedule-6.pdf",
+        "sha256": "edb8e749b76f0fe57810c671796859d496b6da3a9105c8bc62dc246293cd24d7"
+      },
+      {
+        "path": "docs/sources/decree-schedule-6.txt",
+        "sha256": "e26a471a87dcf279b51faec884afc8e139884de49b2c332d8e6b7dc6271363e4"
+      }
+    ],
+    "downloadUrls": {
+      "schedule1": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=166028881&bylClsCd=110201",
+      "schedule4": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=166028953&bylClsCd=110201",
+      "schedule5": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=166028959&bylClsCd=110201",
+      "schedule6": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=166028965&bylClsCd=110201"
+    }
+  },
+  "hm-act": {
+    "title": "위험물안전관리법",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259933&efYd=20250807",
+    "effectiveDate": "2025-08-07",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "snapshots": [
+      {
+        "path": "docs/sources/hm-act.txt",
+        "sha256": "fd81cd2c7397437f6605324f53ec483a3c781a2a65d9d7f26a81105a76ecf023"
+      }
+    ],
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료"
+  },
+  "hm-rules": {
+    "title": "위험물안전관리법 시행규칙",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287841&efYd=20260701",
+    "effectiveDate": "2026-07-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "snapshots": [
+      {
+        "path": "docs/sources/hm-rules.txt",
+        "sha256": "baa7175a0b9e76aa2690473e3f7f3b72361736f26bef6bacea3b06cf3e83c3ac"
+      },
+      {
+        "path": "docs/sources/rules-schedule-1-2.txt",
+        "sha256": "2e7b2b4bde7d23c437922f7536a3b82854a78e296b6fbcd528dea55a0f7b9299"
+      },
+      {
+        "path": "docs/sources/rules-schedule-1.txt",
+        "sha256": "a0c578d4b4dcc94115efbfb75d6ee3e256d706093bd849018ddd56c4020652b3"
+      },
+      {
+        "path": "docs/sources/rules-schedule-10.txt",
+        "sha256": "5dbaed7d02333a5f5f25b1cf3b9b9f9cc555abef9c2c414ed4f4b113588e21a8"
+      },
+      {
+        "path": "docs/sources/rules-schedule-11.txt",
+        "sha256": "4d4fbe8bdaf6cb6b3f874c06eca05da8d28d319c60d37ba505600f64ff03f3ed"
+      },
+      {
+        "path": "docs/sources/rules-schedule-12.txt",
+        "sha256": "94cf60d682db71ff5961194585cac60dca8c9745c5915c4c8c55c381707f5edb"
+      },
+      {
+        "path": "docs/sources/rules-schedule-13.txt",
+        "sha256": "b49429d5bd57f73f85328ab1dcf7a39d5ea180be3e3cada7e1e759e7cee47d1f"
+      },
+      {
+        "path": "docs/sources/rules-schedule-14.txt",
+        "sha256": "948b7565d8bdc22730365ee4ac48f77242b74e145e7fa578fef59caa8b2297ef"
+      },
+      {
+        "path": "docs/sources/rules-schedule-15.txt",
+        "sha256": "2817922b287147c10b87723f8be6890307e09df0f4b515bd43eb4b08581a51d6"
+      },
+      {
+        "path": "docs/sources/rules-schedule-16.txt",
+        "sha256": "b2a2792a4592c08dac400d28a882b7acd3175ac19abae3d75f73d06fc776181c"
+      },
+      {
+        "path": "docs/sources/rules-schedule-17.txt",
+        "sha256": "c9607eb100de425fd5d111d6b280361bd7a37f7fdb1c056531a32bdfd5f0e1b7"
+      },
+      {
+        "path": "docs/sources/rules-schedule-18.txt",
+        "sha256": "95c0a4e0204e47e9acb4c51c811911053f63f84686c25fa9749bedf3beb970f3"
+      },
+      {
+        "path": "docs/sources/rules-schedule-19.txt",
+        "sha256": "79a8a9fd490dd3a0019f58f454048cbd9be174b202957efa22315ef292c5c258"
+      },
+      {
+        "path": "docs/sources/rules-schedule-2.txt",
+        "sha256": "5eeb2a35abcb2b591e55388c4cd7a4429f2a1abafa7c7fc11e34dbe81a78d5ce"
+      },
+      {
+        "path": "docs/sources/rules-schedule-20.txt",
+        "sha256": "b7839ca9ff9a68188a021d4d39fbbb1527126bfa34a29b12e40cf6621f944861"
+      },
+      {
+        "path": "docs/sources/rules-schedule-21.txt",
+        "sha256": "ddb5876a02edbcf6b7bc3aa230c8f120348b7f517d304ae9e71fe022ca303ed1"
+      },
+      {
+        "path": "docs/sources/rules-schedule-22.txt",
+        "sha256": "cda4203624990e8ee285d1deb5f45631f722ed1efb47995684e959ee80021da4"
+      },
+      {
+        "path": "docs/sources/rules-schedule-23.txt",
+        "sha256": "dc01c82143639dc59426bdbcf0aae26d70a8e6eb6574fefdcebe8c7b4c35398d"
+      },
+      {
+        "path": "docs/sources/rules-schedule-24.txt",
+        "sha256": "df7cdddeb9cbf1fd6c35bd758f723e65edade796e2160158e709b0536593e310"
+      },
+      {
+        "path": "docs/sources/rules-schedule-25.txt",
+        "sha256": "19646f1efeec4af7bf3b320d2ba79a663f7d563a68f070de13feb1bd907dc3cf"
+      },
+      {
+        "path": "docs/sources/rules-schedule-3-2.txt",
+        "sha256": "91f297b41adc96daff78fc55ad26af160cab83892fd2e586890db43928977394"
+      },
+      {
+        "path": "docs/sources/rules-schedule-3.txt",
+        "sha256": "ddbcbc1a69b8075aed093c188e277835cadfa509c3c3eed41cca924c701c2ccc"
+      },
+      {
+        "path": "docs/sources/rules-schedule-4.txt",
+        "sha256": "f90d106ab37dfb6a0609b769d5ef3ea6da5fa49fcbca3e6da885497a6b39703e"
+      },
+      {
+        "path": "docs/sources/rules-schedule-5.txt",
+        "sha256": "cc183c80e075f41f33ff585598c8434be9af54d635e5e46ad751d809c2b67574"
+      },
+      {
+        "path": "docs/sources/rules-schedule-6.txt",
+        "sha256": "830bd2c7936ce11bad13ee79ceeaa9f2a7c1f5bd0dc3ca9ca231ecc127cab063"
+      },
+      {
+        "path": "docs/sources/rules-schedule-7.txt",
+        "sha256": "feacdb83bf4a18a909c67a6dbb7b0081807f89ed635c5d385928158f82d3589b"
+      },
+      {
+        "path": "docs/sources/rules-schedule-8.txt",
+        "sha256": "eebea0a0927a09ff3747b2bbd21c37e4a447bcf5d46b090bda1c17aa4e7e1a67"
+      },
+      {
+        "path": "docs/sources/rules-schedule-9.txt",
+        "sha256": "907b8e1ab0635190f1a59c15115e38aad3836a202c5914d8296c5b15c2476626"
+      }
+    ],
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료"
+  },
+  "nfpc101": {
+    "title": "소화기구 및 자동소화장치 화재안전성능기준 NFPC 101",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000216118",
+    "effectiveDate": "2022-12-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc101.txt",
+        "sha256": "cb8ab51e500c2e83dd6376a18638d5094b13f65a2cf3aea481a9b959d770769d"
+      }
+    ],
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료"
+  },
+  "openstax-chemistry-2025": {
+    "title": "OpenStax Chemistry 2e — CC BY 4.0 판본",
+    "type": "textbook",
+    "url": "https://github.com/openstax/osbooks-chemistry-bundle/tree/466d8b1b9dbaee5d44d7184cd139ea4ef9179563",
+    "commit": "466d8b1b9dbaee5d44d7184cd139ea4ef9179563",
+    "authors": "Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson / OpenStax",
+    "license": "CC BY 4.0",
+    "licenseNote": "2025-12-05 고정 커밋과 그 LICENSE 사용. 2026년 신규 NC-SA 판본과 구별. 번역·선다형 재구성 시 출처와 변경 사실 표시.",
+    "checkedAt": "2026-10-19",
+    "snapshots": [
+      {
+        "path": "docs/sources/chemistry-2e/m68664.txt",
+        "sha256": "48f2565e05e4fbef1e0554c9f477ac30a86d08e6e74b77ef0ccc4a945f32f236"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68667.txt",
+        "sha256": "8374496cb448315ab4f9efde24496a2f9fa0d98928e2ecb74a24f07a99d91ec4"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68670.txt",
+        "sha256": "dbdea4990d8c6919ae1fbab501af24015b6aa02b29280d21f2c9023655dcffd7"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68674.txt",
+        "sha256": "1639a17df14325ef24bde5e77470ce28fe43a75ebc97acca68996044e7eb638c"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68683.txt",
+        "sha256": "8267b9b4dddfd87d85d702e158315e6d324c3dc45f0c5a77c2baeaa87324c5c0"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68685.txt",
+        "sha256": "36158a70fa43bf08a988ec8c228c95811bc2c3b319b8e04e247448541b1d96c7"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68687.txt",
+        "sha256": "6295801ef24e6d14e12b312f082ec3ad11cc3e3d8977187707d8a571f026eac4"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68692.txt",
+        "sha256": "df071946fd7279a89237984fdfb9fe1dd0fbc39b80a7dad8fe395cca30dc1151"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68693.txt",
+        "sha256": "e6b2a7a497dd712266b79e2af233634db6235b2a438a9b423abd2eba1618f039"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68695.txt",
+        "sha256": "8ea8648224ca232c3799e394e001834f2a521e9f904ad0ad0edf1e807ac9f584"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68696.txt",
+        "sha256": "e195b1986c5310752f5ce4d8eb8b4da61d4fc61a85299d69e9c1c7fe9fc45b1e"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68698.txt",
+        "sha256": "ac3f69424b731677d0e00af76241d3afa0650563aabcbfe0697e05651fccb3d9"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68700.txt",
+        "sha256": "967c181d7da99736907edc82d810e05f9b8db1176748e84fefdb0bca8bba6477"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68702.txt",
+        "sha256": "c1744c25ae188627ba753d7c4d56724b00af00f974a0ab2afe1447216b3e5cf5"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68703.txt",
+        "sha256": "e5dc8fc8faf13b3121110a3ca82e039aaccea746fc42037b3f865332f80b2bb3"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68704.txt",
+        "sha256": "2952aaad85ef46dd14786577ff46a53b39bbb05d4860ab75a97d71277a41f343"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68709.txt",
+        "sha256": "e4a8727c98c81654dd5dd20c979faa9e8dc448c2095f4e80ec561e290a207996"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68710.txt",
+        "sha256": "e09c3cd2ed56e7238ffc04a1f639573d8027b2b72c35250d15a4d4c11083ce68"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68713.txt",
+        "sha256": "8e76992de475a04495d7a0423c99f22fd3423af94c9b74315d4c88258443d550"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68714.txt",
+        "sha256": "036bc2d9e7385417a3fef9fcdfdc38d99c6654f7f00aab65cf7033eb0f2ba860"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68716.txt",
+        "sha256": "83d15950fb58ddb02834ea19bb7c88f7c8a5994eba0abe1059963f56ca2a0fc6"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68724.txt",
+        "sha256": "25ce687437eab9c617ed7e550aba9e82501ea75797fd168dea8e03f58e8773ab"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68726.txt",
+        "sha256": "7b385648a1b0f430d335e743c150a95ed43bdfb01d88292314492816e3c56a49"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68727.txt",
+        "sha256": "8da5d3b1d6b812d880a021867627f431ddb31951ed6bf855df1e36676747118e"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68735.txt",
+        "sha256": "c8fb11f1150f155152b7c09b2ff6e69a68cc0520b8d823b1b474af3b03404cb8"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68737.txt",
+        "sha256": "bcf2c63ec29cf096e08c9ceac467dce1afa22e07fda07707b1934e6e93f074d7"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68738.txt",
+        "sha256": "a5bcb45999eac5ff61528096ff9b721e6a39863e7a659d67e5814278f950a02d"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68739.txt",
+        "sha256": "6c48e185609d62849e93f5d2d518da4cd64c043a543a0a375e3ca50584438c23"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68741.txt",
+        "sha256": "a132f017542a55ebbffce2ba33218e67b7bea304dab6650179d25afa3687358b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68742.txt",
+        "sha256": "8b76ef6d27ecc212e44d52284d2a33e95a299dd14209e4fe9297cad20efafdba"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68750.txt",
+        "sha256": "9d9042ef66adfb4b0d568f0ec4b54e286dd36d756c976f6de82e34e149715338"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68751.txt",
+        "sha256": "8e177b7cd0fc68380a7c09ecd8c4bda39363882d3d0f2965f8d7f863ac082dcd"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68752.txt",
+        "sha256": "ea79b3542b35d9f56d203598bfe97c9736fb48605ee5170ea72f855264c580ce"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68754.txt",
+        "sha256": "2b3c46a665310fe2c71e79b1756ccfdf8c1eb3bd40b673ba6ac4853a9e6328ae"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68758.txt",
+        "sha256": "6984b387b4eb4031d023fc2494bd60e460dae1e70658c7a09ae361e7ff1feec9"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68759.txt",
+        "sha256": "a6726c9dd33910e263050e9b58c24188d3b3086edd88d05faa8c7b160207d6ff"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68761.txt",
+        "sha256": "1e7b8d4afeafb79d5716d51937463be052026ba1a9f9e3b2ac08313dd556ecb3"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68764.txt",
+        "sha256": "553b29c7e8551217aafd3c58259769013eaaeaf31de7e3e2b9d9b6c94130f45b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68768.txt",
+        "sha256": "395869db0467a9718e2bf9463f4950428cd71a70e709ede1a2099307a1de0ae1"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68769.txt",
+        "sha256": "f14b8bfbda81cca318d0eacf0007259a7c50f09c3f7c8b716b5004b904add9a0"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68770.txt",
+        "sha256": "7dffc1ffde4c56c8ead46cc674130e4d1aa357f15c1b3de2361570447e3afd7b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68778.txt",
+        "sha256": "d6fafa747cd85aec70ca83fbbdea4757a42fd4fe6c3ac17c7a11f9951b582de5"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68781.txt",
+        "sha256": "1940d1f7cf35fc00c7dae537bbb707d345bdc2d0dc4e54c74718c2b4cdf64a0a"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68782.txt",
+        "sha256": "81b8db4d55db4e58f6b60b41248fa3b22fc9c4c4a6b9baae025016cdcec96741"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68783.txt",
+        "sha256": "4c0bd85976c1bb174504cb961348a8b18dc9a09cb7395fa1369d06a9338aff97"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68784.txt",
+        "sha256": "b9f2c20362bdc8915f7c6f88964daf0ab38e6675ea3a1b6c95de8a26522b8d6c"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68786.txt",
+        "sha256": "3f0cf1614217adcc0f2d0c227120580543c58b11c3f5ba25239340300ce8b905"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68787.txt",
+        "sha256": "dd24651a8f8c37bfc02480868f461136640f6be3c88a6038ed32610af23b4064"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68789.txt",
+        "sha256": "e613e30b6f5b0dc1b08569cdb123148d1eab004499cd1aad1e0f3fcfcb9055b6"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68793.txt",
+        "sha256": "e3f361372e8ddfd3ad29c99904e360119443e4c0c2b77853dbf11aaaa0121534"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68794.txt",
+        "sha256": "abaa34ccf9004bff0a1a07fda8adc53232ce867511ce0be70d8b82145a6c3afe"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68795.txt",
+        "sha256": "461cdb72ff3b569e366ea256237d33658cb3f8bfa836393a088be59b145b481b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68797.txt",
+        "sha256": "1584e0b08f63dcb0e7b90e947c968faea58a2bfaf602194c2d4bd375580be8ac"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68798.txt",
+        "sha256": "55ecdde6fa3fe9d0cc1240b9bc8cbc5e8d7dbe44aa806130faa9fe44eee63133"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68799.txt",
+        "sha256": "08cbfe74d2c9eb3beabb6ba2d32c5185bae903c032de3a25c55e6026e5e6714a"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68803.txt",
+        "sha256": "cfa2568425ec24f5bdde6b538c005f5b6ed592647ab783a27c9f27b9262c0ca8"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68804.txt",
+        "sha256": "f52aaf66702af86b67f69650672114a72d7ccbe50a4f17218f4c6694dfaeca46"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68805.txt",
+        "sha256": "6b7e1ab5fc65ff0b30048c62d6c21b0a3b3ab37bb191d38d085cdfa15ccc2c0f"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68807.txt",
+        "sha256": "54da1095f7644369ef7bd74f4fc5838fbdf4e96437677d64b271a06039bb2574"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68808.txt",
+        "sha256": "2e0b32d642b16e559abfa1d98b2edc7bbdaa3beed2817cf8dc966020dfa73589"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68809.txt",
+        "sha256": "6932c58ee8a9b524e240534b69df748be15ce606a248c9bfbbcb34343432d457"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68811.txt",
+        "sha256": "cb3a1f659d02802a5aef65d844e933b46841fb060739fa2fb81d5b0b58ca1610"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68813.txt",
+        "sha256": "e25cf45c86e59227e6b917dc105d2bbec3e18d68ee6205db0d9f472732e7c3e2"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68816.txt",
+        "sha256": "0d59864b6558ad58c0d6bd16e12e98636108a0703c8dd900911167acb341041c"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68817.txt",
+        "sha256": "3f31309d3238d1ade4a64f65c5377ce16d3ac6ed4ed227de63d3f000766c168a"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68818.txt",
+        "sha256": "8ef299737269c267c14ab6daa0d6bb09e2a615018b789f892e58d27f409d0af4"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68819.txt",
+        "sha256": "a819d489799c494bea37789d588340664acd7862d31262062826532db78893d2"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68821.txt",
+        "sha256": "20ae735926492207c3c4f72d8948733bf96c2126caa5965271d761d7db0d5b95"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68822.txt",
+        "sha256": "7aaebeea000ccfc386545434408ebc5f19cdee15277f2462b30e60e72e55a3e9"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68826.txt",
+        "sha256": "4a8af218a359f4104f95771703abd7f4ece05e89cfdf28c13a7c0b0e7a7675b2"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68827.txt",
+        "sha256": "e6e3e2ae0a169498b4bd2ffc16c1001a5d8c3aa97a508f5658677b47446d8686"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68829.txt",
+        "sha256": "03d9598ec37d9cb2040261015b8b50f749d33ba73e2d38aa6a918f7856b06f90"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68830.txt",
+        "sha256": "53f9fe6223af280359792d18bcdb17a2b9307a5e54234fb83cf92ac1c9c3a90b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68831.txt",
+        "sha256": "b8c33e3a33e6cad6440e9c3293d534b5759d7120a7b682f34f49835d20964e9a"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68832.txt",
+        "sha256": "eeaddac2d7eecb903f0d5ad1355e1ccaa07dc19b02b018e66a8f4ac34c08cb1c"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68833.txt",
+        "sha256": "6ac9e72cef8f3701e189d31a6e043f1ce7b0777eaf5da6b4a4550060a578ba30"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68834.txt",
+        "sha256": "091f2ad8053d7d27bc918f66223a20822b18be6a66d6c09e7e346e8bc4a886d5"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68835.txt",
+        "sha256": "d69b0629a35279f0547cd41cb1aed66d1a27233c78e4d386de2b21b0ec4fc4ab"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68836.txt",
+        "sha256": "7ad4756c3561afe17553f25d806605a00dc8cf7c397bcbaa2fb59b109f5b0ca0"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68837.txt",
+        "sha256": "b993180415940c0b5c2fc97bf79723dbaa4f92a62099d17bbbd4ad8d9197ccd2"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68838.txt",
+        "sha256": "445cb5d48f9600c252b2ff6d9100a8d7639b18b8053e4add30b4280dc60afdd6"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68839.txt",
+        "sha256": "acbbe6f0c287c169414557c6ff0a6aaa8caa38239108590eaa7814b8d9afedd9"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68840.txt",
+        "sha256": "693fb3947394e4ee866de858481d142e520418ea1c18edfef1d911de00830481"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68846.txt",
+        "sha256": "730cfa39128c41325e985236b6d7284d47621b05a932846fa474cfd1d5a224a2"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68847.txt",
+        "sha256": "c0c82630ab5c3a8d93acff508ddfe59fb8ee7ad5d7df6160d8540a5bbe2efcea"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68848.txt",
+        "sha256": "e9a9b8720e3433cd94fca586cc92e8bd7e7caec36d7199f0382c16b8244c385b"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68849.txt",
+        "sha256": "c5c3596deba4df452f101632d3f8b7abd2e70dbd549477f9758b5edb1746525e"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68863.txt",
+        "sha256": "6d552ab34009974a6f1531ba44242d13ecbb1166357a8ab925d66a15d99d2bfc"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68864.txt",
+        "sha256": "71224d85a182dd81b5517d7e33af463844edf47f9127b71b65a878272a210c15"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/m68865.txt",
+        "sha256": "423ccc7e8fc00ef3db0f20ca4eee1fcc0415fe9e5641fd43b5ab44e10ddfc311"
+      },
+      {
+        "path": "docs/sources/chemistry-2e/LICENSE-CC-BY-4.0.txt",
+        "sha256": "0ff174546cbe3dd1287da231f9796618ac2f6e6595b2d11f567b2c9790f64868"
+      }
+    ]
+  },
+  "nfpc103": {
+    "title": "스프링클러설비의 화재안전성능기준(NFPC 103)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000270474&chrClsCd=010201",
+    "effectiveDate": "2026-03-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc103.txt",
+        "sha256": "b0e5789b7a7e58143168bee0f500d439210593f7eb8bdf0bc378e41848d8ae22"
+      }
+    ]
+  },
+  "nfpc104": {
+    "title": "물분무소화설비의 화재안전성능기준(NFPC 104)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000273568&chrClsCd=010201",
+    "effectiveDate": "2026-03-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc104.txt",
+        "sha256": "13ceddee97516f11705e9c3a0dd0cc902b387dfd3a4a68596faaf61a106a45a8"
+      }
+    ]
+  },
+  "nfpc105": {
+    "title": "포소화설비의 화재안전성능기준(NFPC 105)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000273596&chrClsCd=010201",
+    "effectiveDate": "2026-03-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc105.txt",
+        "sha256": "960dc8b4786188ecffa942f87dd067cc9f92eed24a690e25a7e13f99c37493fb"
+      }
+    ]
+  },
+  "nfpc106": {
+    "title": "이산화탄소소화설비의 화재안전성능기준(NFPC 106)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000243626&chrClsCd=010201",
+    "effectiveDate": "2024-08-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc106.txt",
+        "sha256": "f755ba7baeae15d1437eb06d478e623ec1f7965a3997601326c32dd011de1755"
+      }
+    ]
+  },
+  "nfpc107": {
+    "title": "할론소화설비의 화재안전성능기준(NFPC 107)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000218508&chrClsCd=010201",
+    "effectiveDate": "2023-02-10",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc107.txt",
+        "sha256": "a2a7e2a6e171d29dc4af7e397115a5f43d973f64fc279711af63faf4a7f164f4"
+      }
+    ]
+  },
+  "nfpc107a": {
+    "title": "할로겐화합물 및 불활성기체소화설비의 화재안전성능기준(NFPC 107A)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000243628&chrClsCd=010201",
+    "effectiveDate": "2024-08-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc107a.txt",
+        "sha256": "1e3342350f08c4b1cfe07323323aee31ad4d3c7f475d894102f7615bd1687384"
+      }
+    ]
+  },
+  "nfpc108": {
+    "title": "분말소화설비의 화재안전성능기준(NFPC 108)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000278572&chrClsCd=010201",
+    "effectiveDate": "2026-05-04",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc108.txt",
+        "sha256": "0615a68fcca2e0dc91c3ae708ca7e4f9857e02a9b0f5b3f64c177f186a0daabe"
+      }
+    ]
+  },
+  "nfpc203": {
+    "title": "자동화재탐지설비 및 시각경보장치의 화재안전성능기준(NFPC 203)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000269850&chrClsCd=010201",
+    "effectiveDate": "2026-03-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc203.txt",
+        "sha256": "5e412e70712594384c940d9b99c39cf671d8ffbcffb9eac0284f2d424c163109"
+      }
+    ]
+  },
+  "nfpc301": {
+    "title": "피난기구의 화재안전성능기준(NFPC 301)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoR.do?admRulSeq=2100000269698&chrClsCd=010201",
+    "effectiveDate": "2026-03-01",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nfpc301.txt",
+        "sha256": "ea0d0226505b6720d43ab888731d53d53c0e96fcb77fa8fdc7cb4b2b8ea1560e"
+      }
+    ]
+  },
+  "nftc101": {
+    "title": "소화기구 및 자동소화장치의 화재안전기술기준(NFTC 101)",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000244810",
+    "effectiveDate": "2024-07-25",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/nftc101.txt",
+        "sha256": "cd3165316568a854b31391ed5c9ec854417e6c2d500c37cf79794441b1c47e4d"
+      }
+    ]
+  },
+  "hm-detailed": {
+    "title": "위험물안전관리에 관한 세부기준",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000285200",
+    "effectiveDate": "2026-09-18",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/hm-detailed.txt",
+        "sha256": "9b5dc2276cf0147c7afe3ad9874b86313b192114c37143ace8c0847143c0eafe"
+      }
+    ]
+  },
+  "hm-warning": {
+    "title": "위험물 운송·운반 시의 위험성 경고표지에 관한 기준",
+    "type": "law",
+    "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000097089",
+    "effectiveDate": "2017-07-26",
+    "checkedAt": "2026-10-19",
+    "status": "read-official-source",
+    "license": "대한민국 법령·고시: 저작권법 제7조 적용 자료",
+    "snapshots": [
+      {
+        "path": "docs/sources/hm-warning.txt",
+        "sha256": "26f298936bddf3be2edeed424b211da42fab0bfcd885fa3b3030998bf8e55cc0"
+      }
+    ]
+  }
+}

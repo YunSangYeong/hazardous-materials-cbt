@@ -1,0 +1,3206 @@
+[
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "chemistry",
+    "meaning": "study of the composition, properties, and interactions of matter"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "hypothesis",
+    "meaning": "tentative explanation of observations that acts as a guide for gathering and checking information"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "law",
+    "meaning": "statement that summarizes a vast number of experimental observations, and describes or predicts some aspect of the natural world"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "macroscopic domain",
+    "meaning": "realm of everyday things that are large enough to sense directly by human sight and touch"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "microscopic domain",
+    "meaning": "realm of things that are much too small to be sensed directly"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "scientific method",
+    "meaning": "path of discovery that leads from question and observation to law or hypothesis to theory, combined with experimental verification of the hypothesis and any necessary modification of the theory"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "symbolic domain",
+    "meaning": "specialized language used to represent components of the macroscopic and microscopic domains, such as chemical symbols, chemical formulas, chemical equations, graphs, drawings, and calculations"
+  },
+  {
+    "module": "m68664",
+    "title": "Chemistry in Context",
+    "term": "theory",
+    "meaning": "well-substantiated, comprehensive, testable explanation of a particular aspect of nature"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "atom",
+    "meaning": "smallest particle of an element that can enter into a chemical combination"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "compound",
+    "meaning": "pure substance that can be decomposed into two or more elements"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "element",
+    "meaning": "substance that is composed of a single type of atom; a substance that cannot be decomposed by a chemical change"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "gas",
+    "meaning": "state in which matter has neither definite volume nor shape"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "heterogeneous mixture",
+    "meaning": "combination of substances with a composition that varies from point to point"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "homogeneous mixture",
+    "meaning": "(also, solution) combination of substances with a composition that is uniform throughout"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "liquid",
+    "meaning": "state of matter that has a definite volume but indefinite shape"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "law of conservation of matter",
+    "meaning": "when matter converts from one type to another or changes form, there is no detectable change in the total amount of matter present"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "mass",
+    "meaning": "fundamental property indicating amount of matter"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "matter",
+    "meaning": "anything that occupies space and has mass"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "mixture",
+    "meaning": "matter that can be separated into its components by physical means"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "molecule",
+    "meaning": "bonded collection of two or more atoms of the same or different elements"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "plasma",
+    "meaning": "gaseous state of matter containing a large number of electrically charged atoms and/or molecules"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "pure substance",
+    "meaning": "homogeneous substance that has a constant composition"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "solid",
+    "meaning": "state of matter that is rigid, has a definite shape, and has a fairly constant volume"
+  },
+  {
+    "module": "m68667",
+    "title": "Phases and Classification of Matter",
+    "term": "weight",
+    "meaning": "force that gravity exerts on an object"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "chemical change",
+    "meaning": "change producing a different kind of matter from the original kind of matter"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "chemical property",
+    "meaning": "behavior that is related to the change of one kind of matter into another kind of matter"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "extensive property",
+    "meaning": "property of a substance that depends on the amount of the substance"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "intensive property",
+    "meaning": "property of a substance that is independent of the amount of the substance"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "physical change",
+    "meaning": "change in the state or properties of matter that does not involve a change in its chemical composition"
+  },
+  {
+    "module": "m68670",
+    "title": "Physical and Chemical Properties",
+    "term": "physical property",
+    "meaning": "characteristic of matter that is not associated with any change in its chemical composition"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "Celsius (°C)",
+    "meaning": "unit of temperature; water freezes at 0 °C and boils at 100 °C on this scale"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "cubic centimeter (cm3 or cc)",
+    "meaning": "volume of a cube with an edge length of exactly 1 cm"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "cubic meter (m3)",
+    "meaning": "SI unit of volume"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "density",
+    "meaning": "ratio of mass to volume for a substance or object"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "kelvin (K)",
+    "meaning": "SI unit of temperature; 273.15 K = 0 ºC"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "kilogram (kg)",
+    "meaning": "standard SI unit of mass"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "length",
+    "meaning": "measure of one dimension of an object"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "liter (L)",
+    "meaning": "(also, cubic decimeter) unit of volume; 1 L = 1,000 cm3"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "meter (m)",
+    "meaning": "standard metric and SI unit of length; 1 m = approximately 1.094 yards"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "milliliter (mL)",
+    "meaning": "1/1,000 of a liter; equal to 1 cm3"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "second (s)",
+    "meaning": "SI unit of time"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "SI units (International System of Units)",
+    "meaning": "standards fixed by international agreement in the International System of Units (Le Système International d’Unités)"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "unit",
+    "meaning": "standard of comparison for measurements"
+  },
+  {
+    "module": "m68674",
+    "title": "Measurements",
+    "term": "volume",
+    "meaning": "amount of space occupied by an object"
+  },
+  {
+    "module": "m68683",
+    "title": "Mathematical Treatment of Measurement Results",
+    "term": "dimensional analysis",
+    "meaning": "(also, factor-label method) versatile mathematical approach that can be applied to computations ranging from simple unit conversions to more complex, multi-step calculations involving several different quantities"
+  },
+  {
+    "module": "m68683",
+    "title": "Mathematical Treatment of Measurement Results",
+    "term": "Fahrenheit",
+    "meaning": "unit of temperature; water freezes at 32 °F and boils at 212 °F on this scale"
+  },
+  {
+    "module": "m68683",
+    "title": "Mathematical Treatment of Measurement Results",
+    "term": "temperature",
+    "meaning": "intensive property representing the hotness or coldness of matter"
+  },
+  {
+    "module": "m68683",
+    "title": "Mathematical Treatment of Measurement Results",
+    "term": "unit conversion factor",
+    "meaning": "ratio of equivalent quantities expressed with different units; used to convert from one unit to a different unit"
+  },
+  {
+    "module": "m68685",
+    "title": "Early Ideas in Atomic Theory",
+    "term": "Dalton’s atomic theory",
+    "meaning": "set of postulates that established the fundamental properties of atoms"
+  },
+  {
+    "module": "m68685",
+    "title": "Early Ideas in Atomic Theory",
+    "term": "law of constant composition",
+    "meaning": "(also, law of definite proportions) all samples of a pure compound contain the same elements in the same proportions by mass"
+  },
+  {
+    "module": "m68685",
+    "title": "Early Ideas in Atomic Theory",
+    "term": "law of definite proportions",
+    "meaning": "(also, law of constant composition) all samples of a pure compound contain the same elements in the same proportions by mass"
+  },
+  {
+    "module": "m68685",
+    "title": "Early Ideas in Atomic Theory",
+    "term": "law of multiple proportions",
+    "meaning": "when two elements react to form more than one compound, a fixed mass of one element will react with masses of the other element in a ratio of small whole numbers"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "alpha particle (α particle)",
+    "meaning": "positively charged particle consisting of two protons and two neutrons"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "electron",
+    "meaning": "negatively charged, subatomic particle of relatively low mass located outside the nucleus"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "isotopes",
+    "meaning": "atoms that contain the same number of protons but different numbers of neutrons"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "neutron",
+    "meaning": "uncharged, subatomic particle located in the nucleus"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "nucleus",
+    "meaning": "massive, positively charged center of an atom made up of protons and neutrons"
+  },
+  {
+    "module": "m68687",
+    "title": "Evolution of Atomic Theory",
+    "term": "proton",
+    "meaning": "positively charged, subatomic particle located in the nucleus"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "anion",
+    "meaning": "negatively charged atom or molecule (contains more electrons than protons)"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "atomic mass",
+    "meaning": "average mass of atoms of an element, expressed in amu"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "atomic mass unit (amu)",
+    "meaning": "(also, unified atomic mass unit, u, or Dalton, Da) unit of mass equal to 112 of the mass of a 12C atom"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "atomic number (Z)",
+    "meaning": "number of protons in the nucleus of an atom"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "cation",
+    "meaning": "positively charged atom or molecule (contains fewer electrons than protons)"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "chemical symbol",
+    "meaning": "one-, two-, or three-letter abbreviation used to represent an element or its atoms"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "Dalton (Da)",
+    "meaning": "alternative unit equivalent to the atomic mass unit"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "fundamental unit of charge",
+    "meaning": "(also called the elementary charge) equals the magnitude of the charge of an electron (e) with e = 1.602 × 10−19 C"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "ion",
+    "meaning": "electrically charged atom or molecule (contains unequal numbers of protons and electrons)"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "mass number (A)",
+    "meaning": "sum of the numbers of neutrons and protons in the nucleus of an atom"
+  },
+  {
+    "module": "m68692",
+    "title": "Atomic Structure and Symbolism",
+    "term": "unified atomic mass unit (u)",
+    "meaning": "alternative unit equivalent to the atomic mass unit"
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "empirical formula",
+    "meaning": "formula showing the composition of a compound given as the simplest whole-number ratio of atoms"
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "isomers",
+    "meaning": "compounds with the same chemical formula but different structures"
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "molecular formula",
+    "meaning": "formula indicating the composition of a molecule of a compound and giving the actual number of atoms of each element in a molecule of the compound."
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "spatial isomers",
+    "meaning": "compounds in which the relative orientations of the atoms in space differ"
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "structural formula",
+    "meaning": "shows the atoms in a molecule and how they are connected"
+  },
+  {
+    "module": "m68693",
+    "title": "Chemical Formulas",
+    "term": "structural isomer",
+    "meaning": "one of two substances that have the same molecular formula but different physical and chemical properties because their atoms are bonded differently"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "actinide",
+    "meaning": "inner transition metal in the bottom of the bottom two rows of the periodic table"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "alkali metal",
+    "meaning": "element in group 1"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "alkaline earth metal",
+    "meaning": "element in group 2"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "chalcogen",
+    "meaning": "element in group 16"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "group",
+    "meaning": "vertical column of the periodic table"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "halogen",
+    "meaning": "element in group 17"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "hydrate",
+    "meaning": "compound containing one or more water molecules bound within its crystals"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "inert gas",
+    "meaning": "(also, noble gas) element in group 18"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "inner transition metal",
+    "meaning": "(also, lanthanide or actinide) element in the bottom two rows; if in the first row, also called lanthanide, or if in the second row, also called actinide"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "lanthanide",
+    "meaning": "inner transition metal in the top of the bottom two rows of the periodic table"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "main-group element",
+    "meaning": "(also, representative element) element in groups 1, 2, and 13–18"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "metal",
+    "meaning": "element that is shiny, malleable, good conductor of heat and electricity"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "metalloid",
+    "meaning": "element that conducts heat and electricity moderately well, and possesses some properties of metals and some properties of nonmetals"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "noble gas",
+    "meaning": "(also, inert gas) element in group 18"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "nonmetal",
+    "meaning": "element that appears dull, poor conductor of heat and electricity"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "period",
+    "meaning": "(also, series) horizontal row of the periodic table"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "periodic law",
+    "meaning": "properties of the elements are periodic function of their atomic numbers."
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "periodic table",
+    "meaning": "table of the elements that places elements with similar chemical properties close together"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "pnictogen",
+    "meaning": "element in group 15"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "representative element",
+    "meaning": "(also, main-group element) element in columns 1, 2, and 12–18"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "series",
+    "meaning": "(also, period) horizontal row of the period table"
+  },
+  {
+    "module": "m68695",
+    "title": "The Periodic Table",
+    "term": "transition metal",
+    "meaning": "element in groups 3–12 (more strictly defined, 3–11; see chapter on transition metals and coordination chemistry)"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "covalent bond",
+    "meaning": "attractive force between the nuclei of a molecule’s atoms and pairs of electrons between the atoms"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "covalent compound",
+    "meaning": "(also, molecular compound) composed of molecules formed by atoms of two or more different elements"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "ionic bond",
+    "meaning": "electrostatic forces of attraction between the oppositely charged ions of an ionic compound"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "ionic compound",
+    "meaning": "compound composed of cations and anions combined in ratios, yielding an electrically neutral substance"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "molecular compound",
+    "meaning": "(also, covalent compound) composed of molecules formed by atoms of two or more different elements"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "monatomic ion",
+    "meaning": "ion composed of a single atom"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "oxyanion",
+    "meaning": "polyatomic anion composed of a central atom bonded to oxygen atoms"
+  },
+  {
+    "module": "m68696",
+    "title": "Ionic and Molecular Compounds",
+    "term": "polyatomic ion",
+    "meaning": "ion composed of more than one atom"
+  },
+  {
+    "module": "m68698",
+    "title": "Chemical Nomenclature",
+    "term": "binary acid",
+    "meaning": "compound that contains hydrogen and one other element, bonded in a way that imparts acidic properties to the compound (ability to release H+ ions when dissolved in water)"
+  },
+  {
+    "module": "m68698",
+    "title": "Chemical Nomenclature",
+    "term": "binary compound",
+    "meaning": "compound containing two different elements."
+  },
+  {
+    "module": "m68698",
+    "title": "Chemical Nomenclature",
+    "term": "nomenclature",
+    "meaning": "system of rules for naming objects of interest"
+  },
+  {
+    "module": "m68698",
+    "title": "Chemical Nomenclature",
+    "term": "oxyacid",
+    "meaning": "compound that contains hydrogen, oxygen, and one other element, bonded in a way that imparts acidic properties to the compound (ability to release H+ ions when dissolved in water)"
+  },
+  {
+    "module": "m68700",
+    "title": "Formula Mass and the Mole Concept",
+    "term": "Avogadro’s number (NA)",
+    "meaning": "experimentally determined value of the number of entities comprising 1 mole of substance, equal to 6.022 × 1023 mol−1"
+  },
+  {
+    "module": "m68700",
+    "title": "Formula Mass and the Mole Concept",
+    "term": "formula mass",
+    "meaning": "sum of the average masses for all atoms represented in a chemical formula; for covalent compounds, this is also the molecular mass"
+  },
+  {
+    "module": "m68700",
+    "title": "Formula Mass and the Mole Concept",
+    "term": "molar mass",
+    "meaning": "mass in grams of 1 mole of a substance"
+  },
+  {
+    "module": "m68700",
+    "title": "Formula Mass and the Mole Concept",
+    "term": "mole",
+    "meaning": "amount of substance containing the same number of atoms, molecules, ions, or other entities as the number of atoms in exactly 12 grams of 12C"
+  },
+  {
+    "module": "m68702",
+    "title": "Determining Empirical and Molecular Formulas",
+    "term": "empirical formula mass",
+    "meaning": "sum of average atomic masses for all atoms represented in an empirical formula"
+  },
+  {
+    "module": "m68702",
+    "title": "Determining Empirical and Molecular Formulas",
+    "term": "percent composition",
+    "meaning": "percentage by mass of the various elements in a compound"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "aqueous solution",
+    "meaning": "solution for which water is the solvent"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "concentrated",
+    "meaning": "qualitative term for a solution containing solute at a relatively high concentration"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "concentration",
+    "meaning": "quantitative measure of the relative amounts of solute and solvent present in a solution"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "dilute",
+    "meaning": "qualitative term for a solution containing solute at a relatively low concentration"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "dilution",
+    "meaning": "process of adding solvent to a solution in order to lower the concentration of solutes"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "dissolved",
+    "meaning": "describes the process by which solute components are dispersed in a solvent"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "molarity (M)",
+    "meaning": "unit of concentration, defined as the number of moles of solute dissolved in 1 liter of solution"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "solute",
+    "meaning": "solution component present in a concentration less than that of the solvent"
+  },
+  {
+    "module": "m68703",
+    "title": "Molarity",
+    "term": "solvent",
+    "meaning": "solution component present in a concentration that is higher relative to other components"
+  },
+  {
+    "module": "m68704",
+    "title": "Other Units for Solution Concentrations",
+    "term": "mass percentage",
+    "meaning": "ratio of solute-to-solution mass expressed as a percentage"
+  },
+  {
+    "module": "m68704",
+    "title": "Other Units for Solution Concentrations",
+    "term": "mass-volume percent",
+    "meaning": "ratio of solute mass to solution volume, expressed as a percentage"
+  },
+  {
+    "module": "m68704",
+    "title": "Other Units for Solution Concentrations",
+    "term": "parts per billion (ppb)",
+    "meaning": "ratio of solute-to-solution mass multiplied by 109"
+  },
+  {
+    "module": "m68704",
+    "title": "Other Units for Solution Concentrations",
+    "term": "parts per million (ppm)",
+    "meaning": "ratio of solute-to-solution mass multiplied by 106"
+  },
+  {
+    "module": "m68704",
+    "title": "Other Units for Solution Concentrations",
+    "term": "volume percentage",
+    "meaning": "ratio of solute-to-solution volume expressed as a percentage"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "balanced equation",
+    "meaning": "chemical equation with equal numbers of atoms for each element in the reactant and product"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "chemical equation",
+    "meaning": "symbolic representation of a chemical reaction"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "coefficient",
+    "meaning": "number placed in front of symbols or formulas in a chemical equation to indicate their relative amount"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "complete ionic equation",
+    "meaning": "chemical equation in which all dissolved ionic reactants and products, including spectator ions, are explicitly represented by formulas for their dissociated ions"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "molecular equation",
+    "meaning": "chemical equation in which all reactants and products are represented as neutral substances"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "net ionic equation",
+    "meaning": "chemical equation in which only those dissolved ionic reactants and products that undergo a chemical or physical change are represented (excludes spectator ions)"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "product",
+    "meaning": "substance formed by a chemical or physical change; shown on the right side of the arrow in a chemical equation"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "reactant",
+    "meaning": "substance undergoing a chemical or physical change; shown on the left side of the arrow in a chemical equation"
+  },
+  {
+    "module": "m68709",
+    "title": "Writing and Balancing Chemical Equations",
+    "term": "spectator ion",
+    "meaning": "ion that does not undergo a chemical or physical change during a reaction, but its presence is required to maintain charge neutrality"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "acid",
+    "meaning": "substance that produces H3O+ when dissolved in water"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "acid-base reaction",
+    "meaning": "reaction involving the transfer of a hydrogen ion between reactant species"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "base",
+    "meaning": "substance that produces OH− when dissolved in water"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "combustion reaction",
+    "meaning": "vigorous redox reaction producing significant amounts of energy in the form of heat and, sometimes, light"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "half-reaction",
+    "meaning": "an equation that shows whether each reactant loses or gains electrons in a reaction."
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "insoluble",
+    "meaning": "of relatively low solubility; dissolving only to a slight extent"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "neutralization reaction",
+    "meaning": "reaction between an acid and a base to produce salt and water"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "oxidation",
+    "meaning": "process in which an element’s oxidation number is increased by loss of electrons"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "oxidation-reduction reaction",
+    "meaning": "(also, redox reaction) reaction involving a change in oxidation number for one or more reactant elements"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "oxidation number",
+    "meaning": "(also, oxidation state) the charge each atom of an element would have in a compound if the compound were ionic"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "oxidizing agent",
+    "meaning": "(also, oxidant) substance that brings about the oxidation of another substance, and in the process becomes reduced"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "precipitate",
+    "meaning": "insoluble product that forms from reaction of soluble reactants"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "precipitation reaction",
+    "meaning": "reaction that produces one or more insoluble products; when reactants are ionic compounds, sometimes called double-displacement or metathesis"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "reduction",
+    "meaning": "process in which an element’s oxidation number is decreased by gain of electrons"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "reducing agent",
+    "meaning": "(also, reductant) substance that brings about the reduction of another substance, and in the process becomes oxidized"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "salt",
+    "meaning": "ionic compound that can be formed by the reaction of an acid with a base that contains a cation and an anion other than hydroxide or oxide"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "single-displacement reaction",
+    "meaning": "(also, replacement) redox reaction involving the oxidation of an elemental substance by an ionic species"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "soluble",
+    "meaning": "of relatively high solubility; dissolving to a relatively large extent"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "solubility",
+    "meaning": "the extent to which a substance may be dissolved in water, or any solvent"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "strong acid",
+    "meaning": "acid that reacts completely when dissolved in water to yield hydronium ions"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "strong base",
+    "meaning": "base that reacts completely when dissolved in water to yield hydroxide ions"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "weak acid",
+    "meaning": "acid that reacts only to a slight extent when dissolved in water to yield hydronium ions"
+  },
+  {
+    "module": "m68710",
+    "title": "Classifying Chemical Reactions",
+    "term": "weak base",
+    "meaning": "base that reacts only to a slight extent when dissolved in water to yield hydroxide ions"
+  },
+  {
+    "module": "m68713",
+    "title": "Reaction Stoichiometry",
+    "term": "stoichiometric factor",
+    "meaning": "ratio of coefficients in a balanced chemical equation, used in computations relating amounts of reactants and products"
+  },
+  {
+    "module": "m68713",
+    "title": "Reaction Stoichiometry",
+    "term": "stoichiometry",
+    "meaning": "relationships between the amounts of reactants and products of a chemical reaction"
+  },
+  {
+    "module": "m68714",
+    "title": "Reaction Yields",
+    "term": "actual yield",
+    "meaning": "amount of product formed in a reaction"
+  },
+  {
+    "module": "m68714",
+    "title": "Reaction Yields",
+    "term": "excess reactant",
+    "meaning": "reactant present in an amount greater than required by the reaction stoichiometry"
+  },
+  {
+    "module": "m68714",
+    "title": "Reaction Yields",
+    "term": "limiting reactant",
+    "meaning": "reactant present in an amount lower than required by the reaction stoichiometry, thus limiting the amount of product generated"
+  },
+  {
+    "module": "m68714",
+    "title": "Reaction Yields",
+    "term": "percent yield",
+    "meaning": "measure of the efficiency of a reaction, expressed as a percentage of the theoretical yield"
+  },
+  {
+    "module": "m68714",
+    "title": "Reaction Yields",
+    "term": "theoretical yield",
+    "meaning": "amount of product that may be produced from a given amount of reactant(s) according to the reaction stoichiometry"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "analyte",
+    "meaning": "chemical species of interest"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "buret",
+    "meaning": "device used for the precise delivery of variable liquid volumes, such as in a titration analysis"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "combustion analysis",
+    "meaning": "gravimetric technique used to determine the elemental composition of a compound via the collection and weighing of its gaseous combustion products"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "end point",
+    "meaning": "measured volume of titrant solution that yields the change in sample solution appearance or other property expected for stoichiometric equivalence (see equivalence point)"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "equivalence point",
+    "meaning": "volume of titrant solution required to react completely with the analyte in a titration analysis; provides a stoichiometric amount of titrant for the sample’s analyte according to the titration reaction"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "gravimetric analysis",
+    "meaning": "quantitative chemical analysis method involving the separation of an analyte from a sample by a physical or chemical process and subsequent mass measurements of the analyte, reaction product, and/or sample"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "indicator",
+    "meaning": "substance added to the sample in a titration analysis to permit visual detection of the end point"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "quantitative analysis",
+    "meaning": "the determination of the amount or concentration of a substance in a sample"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "titrant",
+    "meaning": "solution containing a known concentration of substance that will react with the analyte in a titration analysis"
+  },
+  {
+    "module": "m68716",
+    "title": "Quantitative Chemical Analysis",
+    "term": "titration analysis",
+    "meaning": "quantitative chemical analysis method that involves measuring the volume of a reactant solution required to completely react with the analyte in a sample"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "calorie (cal)",
+    "meaning": "unit of heat or other energy; the amount of energy required to raise 1 gram of water by 1 degree Celsius; 1 cal is defined as 4.184 J"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "endothermic process",
+    "meaning": "chemical reaction or physical change that absorbs heat"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "energy",
+    "meaning": "capacity to supply heat or do work"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "exothermic process",
+    "meaning": "chemical reaction or physical change that releases heat"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "heat (q)",
+    "meaning": "transfer of thermal energy between two bodies"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "heat capacity (C)",
+    "meaning": "extensive property of a body of matter that represents the quantity of heat required to increase its temperature by 1 degree Celsius (or 1 kelvin)"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "joule (J)",
+    "meaning": "SI unit of energy; amount of energy used when a force of 1 newton moves an object 1 meter, 1 J = 1 kg m2/s2 and 4.184 J = 1 cal"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "kinetic energy",
+    "meaning": "energy associated with an object's motion, equal to one-half the product of the object's mass and the square of its velocity, 12mv2 (where m = mass and v = velocity)"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "potential energy",
+    "meaning": "energy of a particle or system of particles derived from relative position, composition, or condition"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "specific heat capacity (c)",
+    "meaning": "intensive property of a substance that represents the quantity of heat required to raise the temperature of 1 gram of the substance by 1 degree Celsius (or 1 kelvin)"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "temperature",
+    "meaning": "intensive property of matter that is a quantitative measure of “hotness” and “coldness”"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "thermal energy",
+    "meaning": "kinetic energy associated with the random motion of atoms and molecules"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "thermochemistry",
+    "meaning": "study of measuring the amount of heat absorbed or released during a chemical reaction or a physical change"
+  },
+  {
+    "module": "m68724",
+    "title": "Energy Basics",
+    "term": "work (w)",
+    "meaning": "energy transfer due to changes in external, macroscopic variables such as pressure and volume; or causing matter to move against an opposing force"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "bomb calorimeter",
+    "meaning": "device designed to measure the energy change for processes occurring under conditions of constant volume; commonly used for reactions involving solid and gaseous reactants or products"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "calorimeter",
+    "meaning": "device used to measure the amount of heat absorbed or released in a chemical or physical process"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "calorimetry",
+    "meaning": "process of measuring the amount of heat involved in a chemical or physical process"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "nutritional calorie (Calorie)",
+    "meaning": "unit used for quantifying energy provided by digestion of foods, defined as 1000 cal or 1 kcal"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "surroundings",
+    "meaning": "all matter other than the system being studied"
+  },
+  {
+    "module": "m68726",
+    "title": "Calorimetry",
+    "term": "system",
+    "meaning": "portion of matter undergoing a chemical or physical change being studied"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "chemical thermodynamics",
+    "meaning": "area of science that deals with the relationships between heat, work, and all forms of energy associated with chemical and physical processes"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "enthalpy (H)",
+    "meaning": "sum of a system’s internal energy and the mathematical product of its pressure and volume"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "enthalpy change (ΔH)",
+    "meaning": "heat released or absorbed by a system under constant pressure during a chemical or physical process"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "expansion work (pressure-volume work)",
+    "meaning": "work done as a system expands or contracts against external pressure"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "first law of thermodynamics",
+    "meaning": "internal energy of a system changes due to heat flow in or out of the system or work done on or by the system"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "Hess’s law",
+    "meaning": "if a process can be represented as the sum of several steps, the enthalpy change of the process equals the sum of the enthalpy changes of the steps"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "hydrocarbon",
+    "meaning": "compound composed only of hydrogen and carbon; the major component of fossil fuels"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "internal energy (U)",
+    "meaning": "total of all possible kinds of energy present in a substance or substances"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "standard enthalpy of combustion (ΔHc°)",
+    "meaning": "heat released when one mole of a compound undergoes complete combustion under standard conditions"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "standard enthalpy of formation (ΔHf°)",
+    "meaning": "enthalpy change of a chemical reaction in which 1 mole of a pure substance is formed from its elements in their most stable states under standard state conditions"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "standard state",
+    "meaning": "set of physical conditions as accepted as common reference conditions for reporting thermodynamic properties; 1 bar of pressure, and solutions at 1 molar concentrations, usually at a temperature of 298.15 K"
+  },
+  {
+    "module": "m68727",
+    "title": "Enthalpy",
+    "term": "state function",
+    "meaning": "property depending only on the state of a system, and not the path taken to reach that state"
+  },
+  {
+    "module": "m68735",
+    "title": "Periodic Variations in Element Properties",
+    "term": "covalent radius",
+    "meaning": "one-half the distance between the nuclei of two identical atoms when they are joined by a covalent bond"
+  },
+  {
+    "module": "m68735",
+    "title": "Periodic Variations in Element Properties",
+    "term": "effective nuclear charge",
+    "meaning": "charge that leads to the Coulomb force exerted by the nucleus on an electron, calculated as the nuclear charge minus shielding"
+  },
+  {
+    "module": "m68735",
+    "title": "Periodic Variations in Element Properties",
+    "term": "electron affinity",
+    "meaning": "energy change associated with addition of an electron to a gaseous atom or ion"
+  },
+  {
+    "module": "m68735",
+    "title": "Periodic Variations in Element Properties",
+    "term": "ionization energy",
+    "meaning": "energy required to remove an electron from a gaseous atom or ion"
+  },
+  {
+    "module": "m68735",
+    "title": "Periodic Variations in Element Properties",
+    "term": "isoelectronic",
+    "meaning": "group of ions or atoms that have identical electron configurations"
+  },
+  {
+    "module": "m68737",
+    "title": "Ionic Bonding",
+    "term": "inert pair effect",
+    "meaning": "tendency of heavy atoms to form ions in which their valence s electrons are not lost"
+  },
+  {
+    "module": "m68737",
+    "title": "Ionic Bonding",
+    "term": "ionic bond",
+    "meaning": "strong electrostatic force of attraction between cations and anions in an ionic compound"
+  },
+  {
+    "module": "m68738",
+    "title": "Covalent Bonding",
+    "term": "bond length",
+    "meaning": "distance between the nuclei of two bonded atoms at which the lowest potential energy is achieved"
+  },
+  {
+    "module": "m68738",
+    "title": "Covalent Bonding",
+    "term": "covalent bond",
+    "meaning": "bond formed when electrons are shared between atoms"
+  },
+  {
+    "module": "m68738",
+    "title": "Covalent Bonding",
+    "term": "electronegativity",
+    "meaning": "tendency of an atom to attract electrons in a bond to itself"
+  },
+  {
+    "module": "m68738",
+    "title": "Covalent Bonding",
+    "term": "polar covalent bond",
+    "meaning": "covalent bond between atoms of different electronegativities; a covalent bond with a positive end and a negative end"
+  },
+  {
+    "module": "m68738",
+    "title": "Covalent Bonding",
+    "term": "pure covalent bond",
+    "meaning": "(also, nonpolar covalent bond) covalent bond between atoms of identical electronegativities"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "double bond",
+    "meaning": "covalent bond in which two pairs of electrons are shared between two atoms"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "free radical",
+    "meaning": "molecule that contains an odd number of electrons"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "hypervalent molecule",
+    "meaning": "molecule containing at least one main group element that has more than eight electrons in its valence shell"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "Lewis structure",
+    "meaning": "diagram showing lone pairs and bonding pairs of electrons in a molecule or an ion"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "Lewis symbol",
+    "meaning": "symbol for an element or monatomic ion that uses a dot to represent each valence electron in the element or ion"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "lone pair",
+    "meaning": "two (a pair of) valence electrons that are not used to form a covalent bond"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "octet rule",
+    "meaning": "guideline that states main group atoms will form structures in which eight valence electrons interact with each nucleus, counting bonding electrons as interacting with both atoms connected by the bond"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "single bond",
+    "meaning": "bond in which a single pair of electrons is shared between two atoms"
+  },
+  {
+    "module": "m68739",
+    "title": "Lewis Symbols and Structures",
+    "term": "triple bond",
+    "meaning": "bond in which three pairs of electrons are shared between two atoms"
+  },
+  {
+    "module": "m68741",
+    "title": "Strengths of Ionic and Covalent Bonds",
+    "term": "bond energy",
+    "meaning": "(also, bond dissociation energy) energy required to break a covalent bond in a gaseous substance"
+  },
+  {
+    "module": "m68741",
+    "title": "Strengths of Ionic and Covalent Bonds",
+    "term": "Born-Haber cycle",
+    "meaning": "thermochemical cycle relating the various energetic steps involved in the formation of an ionic solid from the relevant elements"
+  },
+  {
+    "module": "m68741",
+    "title": "Strengths of Ionic and Covalent Bonds",
+    "term": "lattice energy (ΔHlattice)",
+    "meaning": "energy required to separate one mole of an ionic solid into its component gaseous ions"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "axial position",
+    "meaning": "location in a trigonal bipyramidal geometry in which there is another atom at a 180° angle and the equatorial positions are at a 90° angle"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "bond angle",
+    "meaning": "angle between any two covalent bonds that share a common atom"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "bond distance",
+    "meaning": "(also, bond length) distance between the nuclei of two bonded atoms"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "bond dipole moment",
+    "meaning": "separation of charge in a bond that depends on the difference in electronegativity and the bond distance represented by partial charges or a vector"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "dipole moment",
+    "meaning": "property of a molecule that describes the separation of charge determined by the sum of the individual bond moments based on the molecular structure"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "electron-pair geometry",
+    "meaning": "arrangement around a central atom of all regions of electron density (bonds, lone pairs, or unpaired electrons)"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "equatorial position",
+    "meaning": "one of the three positions in a trigonal bipyramidal geometry with 120° angles between them; the axial positions are located at a 90° angle"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "linear",
+    "meaning": "shape in which two outside groups are placed on opposite sides of a central atom"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "molecular structure",
+    "meaning": "structure that includes only the placement of the atoms in the molecule"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "octahedral",
+    "meaning": "shape in which six outside groups are placed around a central atom such that a three-dimensional shape is generated with four groups forming a square and the other two forming the apex of two pyramids, one above and one below the square plane"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "polar molecule",
+    "meaning": "(also, dipole) molecule with an overall dipole moment"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "tetrahedral",
+    "meaning": "shape in which four outside groups are placed around a central atom such that a three-dimensional shape is generated with four corners and 109.5° angles between each pair and the central atom"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "trigonal bipyramidal",
+    "meaning": "shape in which five outside groups are placed around a central atom such that three form a flat triangle with 120° angles between each pair and the central atom, and the other two form the apex of two pyramids, one above and one below the triangular plane"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "trigonal planar",
+    "meaning": "shape in which three outside groups are placed in a flat triangle around a central atom with 120° angles between each pair and the central atom"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "valence shell electron-pair repulsion theory (VSEPR)",
+    "meaning": "theory used to predict the bond angles in a molecule based on positioning regions of high electron density as far apart as possible to minimize electrostatic repulsion"
+  },
+  {
+    "module": "m68742",
+    "title": "Molecular Structure and Polarity",
+    "term": "vector",
+    "meaning": "quantity having magnitude and direction"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "atmosphere (atm)",
+    "meaning": "unit of pressure; 1 atm = 101,325 Pa"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "bar",
+    "meaning": "(bar or b) unit of pressure; 1 bar = 100,000 Pa"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "barometer",
+    "meaning": "device used to measure atmospheric pressure"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "hydrostatic pressure",
+    "meaning": "pressure exerted by a fluid due to gravity"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "manometer",
+    "meaning": "device used to measure the pressure of a gas trapped in a container"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "pascal (Pa)",
+    "meaning": "SI unit of pressure; 1 Pa = 1 N/m2"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "pounds per square inch (psi)",
+    "meaning": "unit of pressure common in the US"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "pressure",
+    "meaning": "force exerted per unit area"
+  },
+  {
+    "module": "m68750",
+    "title": "Gas Pressure",
+    "term": "torr",
+    "meaning": "unit of pressure; 1 torr=1760atm"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "absolute zero",
+    "meaning": "temperature at which the volume of a gas would be zero according to Charles’s law."
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "Amontons’s law",
+    "meaning": "(also, Gay-Lussac’s law) pressure of a given number of moles of gas is directly proportional to its kelvin temperature when the volume is held constant"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "Avogadro’s law",
+    "meaning": "volume of a gas at constant temperature and pressure is proportional to the number of gas molecules"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "Boyle’s law",
+    "meaning": "volume of a given number of moles of gas held at constant temperature is inversely proportional to the pressure under which it is measured"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "Charles’s law",
+    "meaning": "volume of a given number of moles of gas is directly proportional to its kelvin temperature when the pressure is held constant"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "ideal gas",
+    "meaning": "hypothetical gas whose physical properties are perfectly described by the gas laws"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "ideal gas constant (R)",
+    "meaning": "constant derived from the ideal gas equation R = 0.08206 L atm mol–1 K–1 or 8.314 L kPa mol–1 K–1"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "ideal gas law",
+    "meaning": "relation between the pressure, volume, amount, and temperature of a gas under conditions derived by combination of the simple gas laws"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "standard conditions of temperature and pressure (STP)",
+    "meaning": "273.15 K (0 °C) and 1 atm (101.325 kPa)"
+  },
+  {
+    "module": "m68751",
+    "title": "Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law",
+    "term": "standard molar volume",
+    "meaning": "volume of 1 mole of gas at STP, approximately 22.4 L for gases behaving ideally"
+  },
+  {
+    "module": "m68752",
+    "title": "Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+    "term": "Dalton’s law of partial pressures",
+    "meaning": "total pressure of a mixture of ideal gases is equal to the sum of the partial pressures of the component gases"
+  },
+  {
+    "module": "m68752",
+    "title": "Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+    "term": "mole fraction (X)",
+    "meaning": "concentration unit defined as the ratio of the molar amount of a mixture component to the total number of moles of all mixture components"
+  },
+  {
+    "module": "m68752",
+    "title": "Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+    "term": "partial pressure",
+    "meaning": "pressure exerted by an individual gas in a mixture"
+  },
+  {
+    "module": "m68752",
+    "title": "Stoichiometry of Gaseous Substances, Mixtures, and Reactions",
+    "term": "vapor pressure of water",
+    "meaning": "pressure exerted by water vapor in equilibrium with liquid water in a closed container at a specific temperature"
+  },
+  {
+    "module": "m68754",
+    "title": "Effusion and Diffusion of Gases",
+    "term": "diffusion",
+    "meaning": "movement of an atom or molecule from a region of relatively high concentration to one of relatively low concentration (discussed in this chapter with regard to gaseous species, but applicable to species in any phase)"
+  },
+  {
+    "module": "m68754",
+    "title": "Effusion and Diffusion of Gases",
+    "term": "effusion",
+    "meaning": "transfer of gaseous atoms or molecules from a container to a vacuum through very small openings"
+  },
+  {
+    "module": "m68754",
+    "title": "Effusion and Diffusion of Gases",
+    "term": "Graham’s law of effusion",
+    "meaning": "rates of diffusion and effusion of gases are inversely proportional to the square roots of their molecular masses"
+  },
+  {
+    "module": "m68754",
+    "title": "Effusion and Diffusion of Gases",
+    "term": "mean free path",
+    "meaning": "average distance a molecule travels between collisions"
+  },
+  {
+    "module": "m68754",
+    "title": "Effusion and Diffusion of Gases",
+    "term": "rate of diffusion",
+    "meaning": "amount of gas diffusing through a given area over a given time"
+  },
+  {
+    "module": "m68758",
+    "title": "The Kinetic-Molecular Theory",
+    "term": "kinetic molecular theory",
+    "meaning": "theory based on simple principles and assumptions that effectively explains ideal gas behavior"
+  },
+  {
+    "module": "m68758",
+    "title": "The Kinetic-Molecular Theory",
+    "term": "root mean square speed (urms)",
+    "meaning": "measure of average speed for a group of particles calculated as the square root of the average squared speed"
+  },
+  {
+    "module": "m68759",
+    "title": "Non-Ideal Gas Behavior",
+    "term": "compressibility factor (Z)",
+    "meaning": "ratio of the experimentally measured molar volume for a gas to its molar volume as computed from the ideal gas equation"
+  },
+  {
+    "module": "m68759",
+    "title": "Non-Ideal Gas Behavior",
+    "term": "van der Waals equation",
+    "meaning": "modified version of the ideal gas equation containing additional terms to account for non-ideal gas behavior"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "dipole-dipole attraction",
+    "meaning": "intermolecular attraction between two permanent dipoles"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "dispersion force",
+    "meaning": "(also, London dispersion force) attraction between two rapidly fluctuating, temporary dipoles; significant only when particles are very close together"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "hydrogen bonding",
+    "meaning": "occurs when exceptionally strong dipoles attract; bonding that exists when hydrogen is bonded to one of the three most electronegative elements: F, O, or N"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "induced dipole",
+    "meaning": "temporary dipole formed when the electrons of an atom or molecule are distorted by the instantaneous dipole of a neighboring atom or molecule"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "instantaneous dipole",
+    "meaning": "temporary dipole that occurs for a brief moment in time when the electrons of an atom or molecule are distributed asymmetrically"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "intermolecular force",
+    "meaning": "noncovalent attractive force between atoms, molecules, and/or ions"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "polarizability",
+    "meaning": "measure of the ability of a charge to distort a molecule’s charge distribution (electron cloud)"
+  },
+  {
+    "module": "m68761",
+    "title": "Intermolecular Forces",
+    "term": "van der Waals force",
+    "meaning": "attractive or repulsive force between molecules, including dipole-dipole, dipole-induced dipole, and London dispersion forces; does not include forces due to covalent or ionic bonding, or the attraction between ions and molecules"
+  },
+  {
+    "module": "m68764",
+    "title": "Properties of Liquids",
+    "term": "adhesive force",
+    "meaning": "force of attraction between molecules of different chemical identities"
+  },
+  {
+    "module": "m68764",
+    "title": "Properties of Liquids",
+    "term": "capillary action",
+    "meaning": "flow of liquid within a porous material due to the attraction of the liquid molecules to the surface of the material and to other liquid molecules"
+  },
+  {
+    "module": "m68764",
+    "title": "Properties of Liquids",
+    "term": "cohesive force",
+    "meaning": "force of attraction between identical molecules"
+  },
+  {
+    "module": "m68764",
+    "title": "Properties of Liquids",
+    "term": "surface tension",
+    "meaning": "energy required to increase the area, or length, of a liquid surface by a given amount"
+  },
+  {
+    "module": "m68764",
+    "title": "Properties of Liquids",
+    "term": "viscosity",
+    "meaning": "measure of a liquid’s resistance to flow"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "boiling point",
+    "meaning": "temperature at which the vapor pressure of a liquid equals the pressure of the gas above it"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "Clausius-Clapeyron equation",
+    "meaning": "mathematical relationship between the temperature, vapor pressure, and enthalpy of vaporization for a substance"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "condensation",
+    "meaning": "change from a gaseous to a liquid state"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "deposition",
+    "meaning": "change from a gaseous state directly to a solid state"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "dynamic equilibrium",
+    "meaning": "state of a system in which reciprocal processes are occurring at equal rates"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "freezing",
+    "meaning": "change from a liquid state to a solid state"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "freezing point",
+    "meaning": "temperature at which the solid and liquid phases of a substance are in equilibrium; see also melting point"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "melting",
+    "meaning": "change from a solid state to a liquid state"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "melting point",
+    "meaning": "temperature at which the solid and liquid phases of a substance are in equilibrium; see also freezing point"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "normal boiling point",
+    "meaning": "temperature at which a liquid’s vapor pressure equals 1 atm (760 torr)"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "sublimation",
+    "meaning": "change from solid state directly to gaseous state"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "vapor pressure",
+    "meaning": "(also, equilibrium vapor pressure) pressure exerted by a vapor in equilibrium with a solid or a liquid at a given temperature"
+  },
+  {
+    "module": "m68768",
+    "title": "Phase Transitions",
+    "term": "vaporization",
+    "meaning": "change from liquid state to gaseous state"
+  },
+  {
+    "module": "m68769",
+    "title": "Phase Diagrams",
+    "term": "critical point",
+    "meaning": "temperature and pressure above which a gas cannot be condensed into a liquid"
+  },
+  {
+    "module": "m68769",
+    "title": "Phase Diagrams",
+    "term": "phase diagram",
+    "meaning": "pressure-temperature graph summarizing conditions under which the phases of a substance can exist"
+  },
+  {
+    "module": "m68769",
+    "title": "Phase Diagrams",
+    "term": "supercritical fluid",
+    "meaning": "substance at a temperature and pressure higher than its critical point; exhibits properties intermediate between those of gaseous and liquid states"
+  },
+  {
+    "module": "m68769",
+    "title": "Phase Diagrams",
+    "term": "triple point",
+    "meaning": "temperature and pressure at which three phases of a substance are in equilibrium"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "amorphous solid",
+    "meaning": "(also, noncrystalline solid) solid in which the particles lack an ordered internal structure"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "covalent network solid",
+    "meaning": "solid whose particles are held together by covalent bonds"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "crystalline solid",
+    "meaning": "solid in which the particles are arranged in a definite repeating pattern"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "interstitial sites",
+    "meaning": "spaces between the regular particle positions in any array of atoms or ions"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "ionic solid",
+    "meaning": "solid composed of positive and negative ions held together by strong electrostatic attractions"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "metallic solid",
+    "meaning": "solid composed of metal atoms"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "molecular solid",
+    "meaning": "solid composed of neutral molecules held together by intermolecular forces of attraction"
+  },
+  {
+    "module": "m68770",
+    "title": "The Solid State of Matter",
+    "term": "vacancy",
+    "meaning": "defect that occurs when a position that should contain an atom or ion is vacant"
+  },
+  {
+    "module": "m68778",
+    "title": "The Dissolution Process",
+    "term": "alloy",
+    "meaning": "solid mixture of a metallic element and one or more additional elements"
+  },
+  {
+    "module": "m68778",
+    "title": "The Dissolution Process",
+    "term": "ideal solution",
+    "meaning": "solution that forms with no accompanying energy change"
+  },
+  {
+    "module": "m68778",
+    "title": "The Dissolution Process",
+    "term": "solvation",
+    "meaning": "exothermic process in which intermolecular attractive forces between the solute and solvent in a solution are established"
+  },
+  {
+    "module": "m68778",
+    "title": "The Dissolution Process",
+    "term": "spontaneous process",
+    "meaning": "physical or chemical change that occurs without the addition of energy from an external source"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "dissociation",
+    "meaning": "physical process accompanying the dissolution of an ionic compound in which the compound’s constituent ions are solvated and dispersed throughout the solution"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "electrolyte",
+    "meaning": "substance that produces ions when dissolved in water"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "ion-dipole attraction",
+    "meaning": "electrostatic attraction between an ion and a polar molecule"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "nonelectrolyte",
+    "meaning": "substance that does not produce ions when dissolved in water"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "strong electrolyte",
+    "meaning": "substance that dissociates or ionizes completely when dissolved in water"
+  },
+  {
+    "module": "m68781",
+    "title": "Electrolytes",
+    "term": "weak electrolyte",
+    "meaning": "substance that ionizes only partially when dissolved in water"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "Henry’s law",
+    "meaning": "the proportional relationship between the concentration of dissolved gas in a solution and the partial pressure of the gas in contact with the solution"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "immiscible",
+    "meaning": "of negligible mutual solubility; typically refers to liquid substances"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "miscible",
+    "meaning": "mutually soluble in all proportions; typically refers to liquid substances"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "partially miscible",
+    "meaning": "of moderate mutual solubility; typically refers to liquid substances"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "saturated",
+    "meaning": "of concentration equal to solubility; containing the maximum concentration of solute possible for a given temperature and pressure"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "solubility",
+    "meaning": "extent to which a solute may be dissolved in water, or any solvent"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "supersaturated",
+    "meaning": "of concentration that exceeds solubility; a nonequilibrium state"
+  },
+  {
+    "module": "m68782",
+    "title": "Solubility",
+    "term": "unsaturated",
+    "meaning": "of concentration less than solubility"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "boiling point elevation",
+    "meaning": "elevation of the boiling point of a liquid by addition of a solute"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "boiling point elevation constant",
+    "meaning": "the proportionality constant in the equation relating boiling point elevation to solute molality; also known as the ebullioscopic constant"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "colligative property",
+    "meaning": "property of a solution that depends only on the concentration of a solute species"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "crenation",
+    "meaning": "process whereby biological cells become shriveled due to loss of water by osmosis"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "freezing point depression",
+    "meaning": "lowering of the freezing point of a liquid by addition of a solute"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "freezing point depression constant",
+    "meaning": "(also, cryoscopic constant) proportionality constant in the equation relating freezing point depression to solute molality"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "hemolysis",
+    "meaning": "rupture of red blood cells due to the accumulation of excess water by osmosis"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "hypertonic",
+    "meaning": "of greater osmotic pressure"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "hypotonic",
+    "meaning": "of less osmotic pressure"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "ion pair",
+    "meaning": "solvated anion/cation pair held together by moderate electrostatic attraction"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "isotonic",
+    "meaning": "of equal osmotic pressure"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "molality (m)",
+    "meaning": "a concentration unit defined as the ratio of the numbers of moles of solute to the mass of the solvent in kilograms"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "osmosis",
+    "meaning": "diffusion of solvent molecules through a semipermeable membrane"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "osmotic pressure (Π)",
+    "meaning": "opposing pressure required to prevent bulk transfer of solvent molecules through a semipermeable membrane"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "Raoult’s law",
+    "meaning": "the relationship between a solution’s vapor pressure and the vapor pressures and concentrations of its components"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "semipermeable membrane",
+    "meaning": "a membrane that selectively permits passage of certain ions or molecules"
+  },
+  {
+    "module": "m68783",
+    "title": "Colligative Properties",
+    "term": "van’t Hoff factor (i)",
+    "meaning": "the ratio of the number of moles of particles in a solution to the number of moles of formula units dissolved in the solution"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "amphiphilic",
+    "meaning": "molecules possessing both hydrophobic (nonpolar) and a hydrophilic (polar) parts"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "colloid",
+    "meaning": "(also, colloidal dispersion) mixture in which relatively large solid or liquid particles are dispersed uniformly throughout a gas, liquid, or solid"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "dispersion medium",
+    "meaning": "solid, liquid, or gas in which colloidal particles are dispersed"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "dispersed phase",
+    "meaning": "substance present as relatively large solid or liquid particles in a colloid"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "emulsifying agent",
+    "meaning": "amphiphilic substance used to stabilize the particles of some emulsions"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "emulsion",
+    "meaning": "colloid formed from immiscible liquids"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "gel",
+    "meaning": "colloidal dispersion of a liquid in a solid"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "suspension",
+    "meaning": "heterogeneous mixture in which relatively large component particles are temporarily dispersed but settle out over time"
+  },
+  {
+    "module": "m68784",
+    "title": "Colloids",
+    "term": "Tyndall effect",
+    "meaning": "scattering of visible light by a colloidal dispersion"
+  },
+  {
+    "module": "m68786",
+    "title": "Chemical Reaction Rates",
+    "term": "average rate",
+    "meaning": "rate of a chemical reaction computed as the ratio of a measured change in amount or concentration of substance to the time interval over which the change occurred"
+  },
+  {
+    "module": "m68786",
+    "title": "Chemical Reaction Rates",
+    "term": "initial rate",
+    "meaning": "instantaneous rate of a chemical reaction at t = 0 s (immediately after the reaction has begun)"
+  },
+  {
+    "module": "m68786",
+    "title": "Chemical Reaction Rates",
+    "term": "instantaneous rate",
+    "meaning": "rate of a chemical reaction at any instant in time, determined by the slope of the line tangential to a graph of concentration as a function of time"
+  },
+  {
+    "module": "m68786",
+    "title": "Chemical Reaction Rates",
+    "term": "rate of reaction",
+    "meaning": "measure of the speed at which a chemical reaction takes place"
+  },
+  {
+    "module": "m68786",
+    "title": "Chemical Reaction Rates",
+    "term": "rate expression",
+    "meaning": "mathematical representation defining reaction rate as change in amount, concentration, or pressure of reactant or product species per unit time"
+  },
+  {
+    "module": "m68787",
+    "title": "Factors Affecting Reaction Rates",
+    "term": "catalyst",
+    "meaning": "substance that increases the rate of a reaction without itself being consumed by the reaction"
+  },
+  {
+    "module": "m68789",
+    "title": "Rate Laws",
+    "term": "method of initial rates",
+    "meaning": "common experimental approach to determining rate laws that involves measuring reaction rates at varying initial reactant concentrations"
+  },
+  {
+    "module": "m68789",
+    "title": "Rate Laws",
+    "term": "overall reaction order",
+    "meaning": "sum of the reaction orders for each substance represented in the rate law"
+  },
+  {
+    "module": "m68789",
+    "title": "Rate Laws",
+    "term": "rate constant (k)",
+    "meaning": "proportionality constant in a rate law"
+  },
+  {
+    "module": "m68789",
+    "title": "Rate Laws",
+    "term": "rate law",
+    "meaning": "(also, rate equation) (also, differential rate laws) mathematical equation showing the dependence of reaction rate on the rate constant and the concentration of one or more reactants"
+  },
+  {
+    "module": "m68789",
+    "title": "Rate Laws",
+    "term": "reaction order",
+    "meaning": "value of an exponent in a rate law (for example, zero order for 0, first order for 1, second order for 2, and so on)"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "activated complex",
+    "meaning": "(also, transition state) unstable combination of reactant species formed during a chemical reaction"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "activation energy (Ea)",
+    "meaning": "minimum energy necessary in order for a reaction to take place"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "Arrhenius equation",
+    "meaning": "mathematical relationship between a reaction’s rate constant, activation energy, and temperature"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "collision theory",
+    "meaning": "model that emphasizes the energy and orientation of molecular collisions to explain and predict reaction kinetics"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "frequency factor (A)",
+    "meaning": "proportionality constant in the Arrhenius equation, related to the relative number of collisions having an orientation capable of leading to product formation"
+  },
+  {
+    "module": "m68793",
+    "title": "Collision Theory",
+    "term": "reaction diagram",
+    "meaning": "used in chemical kinetics to illustrate various properties of a reaction"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "bimolecular reaction",
+    "meaning": "elementary reaction involving two reactant entities"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "elementary reaction",
+    "meaning": "reaction that takes place in a single step, precisely as depicted in its chemical equation"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "intermediate",
+    "meaning": "entities produced in one step of a reaction mechanism and consumed in a subsequent step"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "molecularity",
+    "meaning": "number of reactant entities involved in an elementary reaction"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "rate-determining step",
+    "meaning": "(also, rate-limiting step) slowest elementary reaction in a reaction mechanism; determines the rate of the overall reaction"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "reaction mechanism",
+    "meaning": "stepwise sequence of elementary reactions by which a chemical change takes place"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "termolecular reaction",
+    "meaning": "elementary reaction involving three reactant entities"
+  },
+  {
+    "module": "m68794",
+    "title": "Reaction Mechanisms",
+    "term": "unimolecular reaction",
+    "meaning": "elementary reaction involving a single reactant entity"
+  },
+  {
+    "module": "m68795",
+    "title": "Catalysis",
+    "term": "heterogeneous catalyst",
+    "meaning": "catalyst present in a different phase from the reactants, furnishing a surface at which a reaction can occur"
+  },
+  {
+    "module": "m68795",
+    "title": "Catalysis",
+    "term": "homogeneous catalyst",
+    "meaning": "catalyst present in the same phase as the reactants"
+  },
+  {
+    "module": "m68797",
+    "title": "Chemical Equilibria",
+    "term": "equilibrium",
+    "meaning": "state of a reversible reaction in which the forward and reverse processes occur at equal rates"
+  },
+  {
+    "module": "m68797",
+    "title": "Chemical Equilibria",
+    "term": "reversible reaction",
+    "meaning": "chemical reaction that can proceed in both the forward and reverse directions under given conditions"
+  },
+  {
+    "module": "m68798",
+    "title": "Equilibrium Constants",
+    "term": "equilibrium constant (K)",
+    "meaning": "value of the reaction quotient for a system at equilibrium; may be expressed using concentrations (Kc) or partial pressures (Kp)"
+  },
+  {
+    "module": "m68798",
+    "title": "Equilibrium Constants",
+    "term": "heterogeneous equilibria",
+    "meaning": "equilibria in which reactants and products occupy two or more different phases"
+  },
+  {
+    "module": "m68798",
+    "title": "Equilibrium Constants",
+    "term": "homogeneous equilibria",
+    "meaning": "equilibria in which all reactants and products occupy the same phase"
+  },
+  {
+    "module": "m68798",
+    "title": "Equilibrium Constants",
+    "term": "law of mass action",
+    "meaning": "when a reversible reaction has attained equilibrium at a given temperature, the reaction quotient remains constant"
+  },
+  {
+    "module": "m68798",
+    "title": "Equilibrium Constants",
+    "term": "reaction quotient (Q)",
+    "meaning": "mathematical function describing the relative amounts of reactants and products in a reaction mixture; may be expressed in terms of concentrations (Qc) or pressures (Qp)"
+  },
+  {
+    "module": "m68799",
+    "title": "Shifting Equilibria: Le Châtelier’s Principle",
+    "term": "Le Châtelier’s principle",
+    "meaning": "an equilibrium subjected to stress will shift in a way to counter the stress and re-establish equilibrium"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "acid ionization",
+    "meaning": "reaction involving the transfer of a proton from an acid to water, yielding hydronium ions and the conjugate base of the acid"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "amphiprotic",
+    "meaning": "species that may either donate or accept a proton in a Brønsted-Lowry acid-base reaction"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "amphoteric",
+    "meaning": "species that can act as either an acid or a base"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "autoionization",
+    "meaning": "reaction between identical species yielding ionic products; for water, this reaction involves transfer of protons to yield hydronium and hydroxide ions"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "base ionization",
+    "meaning": "reaction involving the transfer of a proton from water to a base, yielding hydroxide ions and the conjugate acid of the base"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "Brønsted-Lowry acid",
+    "meaning": "proton donor"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "Brønsted-Lowry base",
+    "meaning": "proton acceptor"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "conjugate acid",
+    "meaning": "substance formed when a base gains a proton"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "conjugate base",
+    "meaning": "substance formed when an acid loses a proton"
+  },
+  {
+    "module": "m68803",
+    "title": "Brønsted-Lowry Acids and Bases",
+    "term": "ion-product constant for water (Kw)",
+    "meaning": "equilibrium constant for the autoionization of water"
+  },
+  {
+    "module": "m68804",
+    "title": "pH and pOH",
+    "term": "acidic",
+    "meaning": "a solution in which [H3O+] > [OH−]"
+  },
+  {
+    "module": "m68804",
+    "title": "pH and pOH",
+    "term": "basic",
+    "meaning": "a solution in which [H3O+] < [OH−]"
+  },
+  {
+    "module": "m68804",
+    "title": "pH and pOH",
+    "term": "neutral",
+    "meaning": "describes a solution in which [H3O+] = [OH−]"
+  },
+  {
+    "module": "m68804",
+    "title": "pH and pOH",
+    "term": "pH",
+    "meaning": "logarithmic measure of the concentration of hydronium ions in a solution"
+  },
+  {
+    "module": "m68804",
+    "title": "pH and pOH",
+    "term": "pOH",
+    "meaning": "logarithmic measure of the concentration of hydroxide ions in a solution"
+  },
+  {
+    "module": "m68805",
+    "title": "Relative Strengths of Acids and Bases",
+    "term": "acid ionization constant (Ka)",
+    "meaning": "equilibrium constant for an acid ionization reaction"
+  },
+  {
+    "module": "m68805",
+    "title": "Relative Strengths of Acids and Bases",
+    "term": "base ionization constant (Kb)",
+    "meaning": "equilibrium constant for a base ionization reaction"
+  },
+  {
+    "module": "m68805",
+    "title": "Relative Strengths of Acids and Bases",
+    "term": "leveling effect",
+    "meaning": "observation that acid-base strength of solutes in a given solvent is limited to that of the solvent’s characteristic acid and base species (in water, hydronium and hydroxide ions, respectively)"
+  },
+  {
+    "module": "m68805",
+    "title": "Relative Strengths of Acids and Bases",
+    "term": "oxyacid",
+    "meaning": "ternary compound with acidic properties, molecules of which contain a central nonmetallic atom bonded to one or more O atoms, at least one of which is bonded to an ionizable H atom"
+  },
+  {
+    "module": "m68805",
+    "title": "Relative Strengths of Acids and Bases",
+    "term": "percent ionization",
+    "meaning": "ratio of the concentration of ionized acid to initial acid concentration expressed as a percentage"
+  },
+  {
+    "module": "m68807",
+    "title": "Polyprotic Acids",
+    "term": "diprotic acid",
+    "meaning": "acid containing two ionizable hydrogen atoms per molecule"
+  },
+  {
+    "module": "m68807",
+    "title": "Polyprotic Acids",
+    "term": "diprotic base",
+    "meaning": "base capable of accepting two protons"
+  },
+  {
+    "module": "m68807",
+    "title": "Polyprotic Acids",
+    "term": "monoprotic acid",
+    "meaning": "acid containing one ionizable hydrogen atom per molecule"
+  },
+  {
+    "module": "m68807",
+    "title": "Polyprotic Acids",
+    "term": "stepwise ionization",
+    "meaning": "process in which a polyprotic acid is ionized by losing protons sequentially"
+  },
+  {
+    "module": "m68807",
+    "title": "Polyprotic Acids",
+    "term": "triprotic acid",
+    "meaning": "acid that contains three ionizable hydrogen atoms per molecule"
+  },
+  {
+    "module": "m68808",
+    "title": "Buffers",
+    "term": "buffer capacity",
+    "meaning": "amount of an acid or base that can be added to a volume of a buffer solution before its pH changes significantly (usually by one pH unit)"
+  },
+  {
+    "module": "m68808",
+    "title": "Buffers",
+    "term": "buffer",
+    "meaning": "mixture of appreciable amounts of a weak acid-base pair. The pH of a buffer resists change when small amounts of acid or base are added"
+  },
+  {
+    "module": "m68808",
+    "title": "Buffers",
+    "term": "Henderson-Hasselbalch equation",
+    "meaning": "logarithmic version of the acid ionization constant expression, conveniently formatted for calculating the pH of buffer solutions"
+  },
+  {
+    "module": "m68809",
+    "title": "Acid-Base Titrations",
+    "term": "acid-base indicator",
+    "meaning": "weak acid or base whose conjugate partner imparts a different solution color; used in visual assessments of solution pH"
+  },
+  {
+    "module": "m68809",
+    "title": "Acid-Base Titrations",
+    "term": "color-change interval",
+    "meaning": "range in pH over which the color change of an indicator is observed"
+  },
+  {
+    "module": "m68809",
+    "title": "Acid-Base Titrations",
+    "term": "titration curve",
+    "meaning": "plot of some sample property (such as pH) versus volume of added titrant"
+  },
+  {
+    "module": "m68811",
+    "title": "Precipitation and Dissolution",
+    "term": "common ion effect",
+    "meaning": "effect on equilibrium when a substance with an ion in common with the dissolved species is added to the solution; causes a decrease in the solubility of an ionic species, or a decrease in the ionization of a weak acid or base"
+  },
+  {
+    "module": "m68811",
+    "title": "Precipitation and Dissolution",
+    "term": "molar solubility",
+    "meaning": "solubility of a compound expressed in units of moles per liter (mol/L)"
+  },
+  {
+    "module": "m68811",
+    "title": "Precipitation and Dissolution",
+    "term": "selective precipitation",
+    "meaning": "process in which ions are separated using differences in their solubility with a given precipitating reagent"
+  },
+  {
+    "module": "m68811",
+    "title": "Precipitation and Dissolution",
+    "term": "solubility product constant (Ksp)",
+    "meaning": "equilibrium constant for the dissolution of an ionic compound"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "complex ion",
+    "meaning": "ion consisting of a central atom surrounding molecules or ions called ligands via coordinate covalent bonds"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "coordinate covalent bond",
+    "meaning": "(also, dative bond) covalent bond in which both electrons originated from the same atom"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "dissociation constant",
+    "meaning": "(Kd) equilibrium constant for the decomposition of a complex ion into its components"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "formation constant",
+    "meaning": "(Kf) (also, stability constant) equilibrium constant for the formation of a complex ion from its components"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "Lewis acid",
+    "meaning": "any species that can accept a pair of electrons and form a coordinate covalent bond"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "Lewis acid-base adduct",
+    "meaning": "compound or ion that contains a coordinate covalent bond between a Lewis acid and a Lewis base"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "Lewis acid-base chemistry",
+    "meaning": "reactions involving the formation of coordinate covalent bonds"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "Lewis base",
+    "meaning": "any species that can donate a pair of electrons and form a coordinate covalent bond"
+  },
+  {
+    "module": "m68813",
+    "title": "Lewis Acids and Bases",
+    "term": "ligand",
+    "meaning": "molecule or ion acting as a Lewis base in complex ion formation; bonds to the central atom of the complex"
+  },
+  {
+    "module": "m68816",
+    "title": "Spontaneity",
+    "term": "nonspontaneous process",
+    "meaning": "process that requires continual input of energy from an external source"
+  },
+  {
+    "module": "m68816",
+    "title": "Spontaneity",
+    "term": "spontaneous change",
+    "meaning": "process that takes place without a continuous input of energy from an external source"
+  },
+  {
+    "module": "m68817",
+    "title": "Entropy",
+    "term": "entropy (S)",
+    "meaning": "state function that is a measure of the matter and/or energy dispersal within a system, determined by the number of system microstates; often described as a measure of the disorder of the system"
+  },
+  {
+    "module": "m68817",
+    "title": "Entropy",
+    "term": "microstate",
+    "meaning": "possible configuration or arrangement of matter and energy within a system"
+  },
+  {
+    "module": "m68817",
+    "title": "Entropy",
+    "term": "reversible process",
+    "meaning": "process that takes place so slowly as to be capable of reversing direction in response to an infinitesimally small change in conditions; hypothetical construct that can only be approximated by real processes"
+  },
+  {
+    "module": "m68818",
+    "title": "The Second and Third Laws of Thermodynamics",
+    "term": "second law of thermodynamics",
+    "meaning": "all spontaneous processes involve an increase in the entropy of the universe"
+  },
+  {
+    "module": "m68818",
+    "title": "The Second and Third Laws of Thermodynamics",
+    "term": "standard entropy (S°)",
+    "meaning": "entropy for one mole of a substance at 1 bar pressure; tabulated values are usually determined at 298.15 K"
+  },
+  {
+    "module": "m68818",
+    "title": "The Second and Third Laws of Thermodynamics",
+    "term": "standard entropy change (ΔS°)",
+    "meaning": "change in entropy for a reaction calculated using the standard entropies"
+  },
+  {
+    "module": "m68818",
+    "title": "The Second and Third Laws of Thermodynamics",
+    "term": "third law of thermodynamics",
+    "meaning": "entropy of a perfect crystal at absolute zero (0 K) is zero"
+  },
+  {
+    "module": "m68819",
+    "title": "Free Energy",
+    "term": "Gibbs free energy change (G)",
+    "meaning": "thermodynamic property defined in terms of system enthalpy and entropy; all spontaneous processes involve a decrease in G"
+  },
+  {
+    "module": "m68819",
+    "title": "Free Energy",
+    "term": "standard free energy change (ΔG°)",
+    "meaning": "change in free energy for a process occurring under standard conditions (1 bar pressure for gases, 1 M concentration for solutions)"
+  },
+  {
+    "module": "m68819",
+    "title": "Free Energy",
+    "term": "standard free energy of formation (ΔGf°)",
+    "meaning": "change in free energy accompanying the formation of one mole of substance from its elements in their standard states"
+  },
+  {
+    "module": "m68821",
+    "title": "Review of Redox Chemistry",
+    "term": "electrode potential (EX)",
+    "meaning": "the potential of a cell in which the half-cell of interest acts as a cathode when connected to the standard hydrogen electrode"
+  },
+  {
+    "module": "m68821",
+    "title": "Review of Redox Chemistry",
+    "term": "half cell",
+    "meaning": "component of a cell that contains the redox conjugate pair (“couple”) of a single reactant"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "active electrode",
+    "meaning": "electrode that participates as a reactant or product in the oxidation-reduction reaction of an electrochemical cell; the mass of an active electrode changes during the oxidation-reduction reaction"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "anode",
+    "meaning": "electrode in an electrochemical cell at which oxidation occurs"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "cathode",
+    "meaning": "electrode in an electrochemical cell at which reduction occurs"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "cell notation (schematic)",
+    "meaning": "symbolic representation of the components and reactions in an electrochemical cell"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "cell potential (Ecell)",
+    "meaning": "difference in potential of the cathode and anode half-cells"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "galvanic (voltaic) cell",
+    "meaning": "electrochemical cell in which a spontaneous redox reaction takes place; also called a voltaic cell"
+  },
+  {
+    "module": "m68822",
+    "title": "Galvanic Cells",
+    "term": "inert electrode",
+    "meaning": "electrode that conducts electrons to and from the reactants in a half-cell but that is not itself oxidized or reduced"
+  },
+  {
+    "module": "m68826",
+    "title": "Corrosion",
+    "term": "cathodic protection",
+    "meaning": "approach to preventing corrosion of a metal object by connecting it to a sacrificial anode composed of a more readily oxidized metal"
+  },
+  {
+    "module": "m68826",
+    "title": "Corrosion",
+    "term": "corrosion",
+    "meaning": "degradation of metal via a natural electrochemical process"
+  },
+  {
+    "module": "m68826",
+    "title": "Corrosion",
+    "term": "galvanization",
+    "meaning": "method of protecting iron or similar metals from corrosion by coating with a thin layer of more easily oxidized zinc."
+  },
+  {
+    "module": "m68826",
+    "title": "Corrosion",
+    "term": "sacrificial anode",
+    "meaning": "electrode constructed from an easily oxidized metal, often magnesium or zinc, used to prevent corrosion of metal objects via cathodic protection"
+  },
+  {
+    "module": "m68826",
+    "title": "Corrosion",
+    "term": "salt bridge",
+    "meaning": "tube filled with inert electrolyte solution"
+  },
+  {
+    "module": "m68827",
+    "title": "Electrolysis",
+    "term": "electrolysis",
+    "meaning": "process using electrical energy to cause a nonspontaneous process to occur"
+  },
+  {
+    "module": "m68827",
+    "title": "Electrolysis",
+    "term": "electrolytic cell",
+    "meaning": "electrochemical cell in which an external source of electrical power is used to drive an otherwise nonspontaneous process"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "alkaline earth metal",
+    "meaning": "any of the metals (beryllium, magnesium, calcium, strontium, barium, and radium) occupying group 2 of the periodic table; they are reactive, divalent metals that form basic oxides"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "allotropes",
+    "meaning": "two or more forms of the same element, in the same physical state, with different chemical structures"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "bismuth",
+    "meaning": "heaviest member of group 15; a less reactive metal than other representative metals"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "metal (representative)",
+    "meaning": "atoms of the metallic elements of groups 1, 2, 12, 13, 14, 15, and 16, which form ionic compounds by losing electrons from their outer s or p orbitals"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "metalloid",
+    "meaning": "element that has properties that are between those of metals and nonmetals; these elements are typically semiconductors"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "passivation",
+    "meaning": "metals with a protective nonreactive film of oxide or other compound that creates a barrier for chemical reactions; physical or chemical removal of the passivating film allows the metals to demonstrate their expected chemical reactivity"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "representative element",
+    "meaning": "element where the s and p orbitals are filling"
+  },
+  {
+    "module": "m68829",
+    "title": "Periodicity",
+    "term": "representative metal",
+    "meaning": "metal among the representative elements"
+  },
+  {
+    "module": "m68830",
+    "title": "Occurrence and Preparation of the Representative Metals",
+    "term": "chemical reduction",
+    "meaning": "method of preparing a representative metal using a reducing agent"
+  },
+  {
+    "module": "m68830",
+    "title": "Occurrence and Preparation of the Representative Metals",
+    "term": "Downs cell",
+    "meaning": "electrochemical cell used for the commercial preparation of metallic sodium (and chlorine) from molten sodium chloride"
+  },
+  {
+    "module": "m68830",
+    "title": "Occurrence and Preparation of the Representative Metals",
+    "term": "Hall–Héroult cell",
+    "meaning": "electrolysis apparatus used to isolate pure aluminum metal from a solution of alumina in molten cryolite"
+  },
+  {
+    "module": "m68830",
+    "title": "Occurrence and Preparation of the Representative Metals",
+    "term": "Pidgeon process",
+    "meaning": "chemical reduction process used to produce magnesium through the thermal reaction of magnesium oxide with silicon"
+  },
+  {
+    "module": "m68831",
+    "title": "Structure and General Properties of the Metalloids",
+    "term": "amorphous",
+    "meaning": "solid material such as a glass that does not have a regular repeating component to its three-dimensional structure; a solid but not a crystal"
+  },
+  {
+    "module": "m68831",
+    "title": "Structure and General Properties of the Metalloids",
+    "term": "borate",
+    "meaning": "compound containing boron-oxygen bonds, typically with clusters or chains as a part of the chemical structure"
+  },
+  {
+    "module": "m68831",
+    "title": "Structure and General Properties of the Metalloids",
+    "term": "polymorph",
+    "meaning": "variation in crystalline structure that results in different physical properties for the resulting compound"
+  },
+  {
+    "module": "m68831",
+    "title": "Structure and General Properties of the Metalloids",
+    "term": "silicate",
+    "meaning": "compound containing silicon-oxygen bonds, with silicate tetrahedra connected in rings, sheets, or three-dimensional networks, depending on the other elements involved in the formation of the compounds"
+  },
+  {
+    "module": "m68832",
+    "title": "Structure and General Properties of the Nonmetals",
+    "term": "acid anhydride",
+    "meaning": "compound that reacts with water to form an acid or acidic solution"
+  },
+  {
+    "module": "m68832",
+    "title": "Structure and General Properties of the Nonmetals",
+    "term": "disproportionation reaction",
+    "meaning": "chemical reaction where a single reactant is simultaneously reduced and oxidized; it is both the reducing agent and the oxidizing agent"
+  },
+  {
+    "module": "m68833",
+    "title": "Occurrence, Preparation, and Compounds of Hydrogen",
+    "term": "Haber process",
+    "meaning": "main industrial process used to produce ammonia from nitrogen and hydrogen; involves the use of an iron catalyst and elevated temperatures and pressures"
+  },
+  {
+    "module": "m68833",
+    "title": "Occurrence, Preparation, and Compounds of Hydrogen",
+    "term": "hydrogen halide",
+    "meaning": "binary compound formed between hydrogen and the halogens: HF, HCl, HBr, and HI"
+  },
+  {
+    "module": "m68833",
+    "title": "Occurrence, Preparation, and Compounds of Hydrogen",
+    "term": "hydrogenation",
+    "meaning": "addition of hydrogen (H2) to reduce a compound"
+  },
+  {
+    "module": "m68834",
+    "title": "Occurrence, Preparation, and Properties of Carbonates",
+    "term": "bicarbonate anion",
+    "meaning": "salt of the hydrogen carbonate ion, HCO3−"
+  },
+  {
+    "module": "m68834",
+    "title": "Occurrence, Preparation, and Properties of Carbonates",
+    "term": "carbonate",
+    "meaning": "salt of the anion CO32−; often formed by the reaction of carbon dioxide with bases"
+  },
+  {
+    "module": "m68834",
+    "title": "Occurrence, Preparation, and Properties of Carbonates",
+    "term": "hydrogen carbonate",
+    "meaning": "salt of carbonic acid, H2CO3 (containing the anion HCO3−) in which one hydrogen atom has been replaced; an acid carbonate; also known as bicarbonate ion"
+  },
+  {
+    "module": "m68835",
+    "title": "Occurrence, Preparation, and Properties of Nitrogen",
+    "term": "nitrogen fixation",
+    "meaning": "formation of nitrogen compounds from molecular nitrogen"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "base anhydride",
+    "meaning": "metal oxide that behaves as a base towards acids"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "chlor-alkali process",
+    "meaning": "electrolysis process for the synthesis of chlorine and sodium hydroxide"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "hydrogen sulfate",
+    "meaning": "HSO4− ion"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "hydrogen sulfite",
+    "meaning": "HSO3− ion"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "hydroxide",
+    "meaning": "compound of a metal with the hydroxide ion OH− or the group −OH"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "nitrate",
+    "meaning": "NO3− ion; salt of nitric acid"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "Ostwald process",
+    "meaning": "industrial process used to convert ammonia into nitric acid"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "oxide",
+    "meaning": "binary compound of oxygen with another element or group, typically containing O2− ions or the group –O– or =O"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "ozone",
+    "meaning": "allotrope of oxygen; O3"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "peroxide",
+    "meaning": "molecule containing two oxygen atoms bonded together or as the anion, O22−"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "photosynthesis",
+    "meaning": "process whereby light energy promotes the reaction of water and carbon dioxide to form carbohydrates and oxygen; this allows photosynthetic organisms to store energy"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "sulfate",
+    "meaning": "SO42− ion"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "sulfite",
+    "meaning": "SO32− ion"
+  },
+  {
+    "module": "m68837",
+    "title": "Occurrence, Preparation, and Compounds of Oxygen",
+    "term": "superoxide",
+    "meaning": "oxide containing the anion O2−"
+  },
+  {
+    "module": "m68838",
+    "title": "Occurrence, Preparation, and Properties of Sulfur",
+    "term": "Frasch process",
+    "meaning": "important in the mining of free sulfur from enormous underground deposits"
+  },
+  {
+    "module": "m68840",
+    "title": "Occurrence, Preparation, and Properties of the Noble Gases",
+    "term": "halide",
+    "meaning": "compound containing an anion of a group 17 element in the 1− oxidation state (fluoride, F−; chloride, Cl−; bromide, Br−; and iodide, I−)"
+  },
+  {
+    "module": "m68840",
+    "title": "Occurrence, Preparation, and Properties of the Noble Gases",
+    "term": "interhalogen",
+    "meaning": "compound formed from two or more different halogens"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "addition reaction",
+    "meaning": "reaction in which a double carbon-carbon bond forms a single carbon-carbon bond by the addition of a reactant. Typical reaction for an alkene."
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "alkane",
+    "meaning": "molecule consisting of only carbon and hydrogen atoms connected by single (σ) bonds"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "alkene",
+    "meaning": "molecule consisting of carbon and hydrogen containing at least one carbon-carbon double bond"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "alkyl group",
+    "meaning": "substituent, consisting of an alkane missing one hydrogen atom, attached to a larger structure"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "alkyne",
+    "meaning": "molecule consisting of carbon and hydrogen containing at least one carbon-carbon triple bond"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "aromatic hydrocarbon",
+    "meaning": "cyclic molecule consisting of carbon and hydrogen with delocalized alternating carbon-carbon single and double bonds, resulting in enhanced stability"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "functional group",
+    "meaning": "part of an organic molecule that imparts a specific chemical reactivity to the molecule"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "organic compound",
+    "meaning": "natural or synthetic compound that contains carbon"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "saturated hydrocarbon",
+    "meaning": "molecule containing carbon and hydrogen that has only single bonds between carbon atoms"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "skeletal structure",
+    "meaning": "shorthand method of drawing organic molecules in which carbon atoms are represented by the ends of lines and bends in between lines, and hydrogen atoms attached to the carbon atoms are not shown (but are understood to be present by the context of the structure)"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "substituent",
+    "meaning": "branch or functional group that replaces hydrogen atoms in a larger hydrocarbon chain"
+  },
+  {
+    "module": "m68846",
+    "title": "Hydrocarbons",
+    "term": "substitution reaction",
+    "meaning": "reaction in which one atom replaces another in a molecule"
+  },
+  {
+    "module": "m68847",
+    "title": "Alcohols and Ethers",
+    "term": "alcohol",
+    "meaning": "organic compound with a hydroxyl group (–OH) bonded to a carbon atom"
+  },
+  {
+    "module": "m68847",
+    "title": "Alcohols and Ethers",
+    "term": "ether",
+    "meaning": "organic compound with an oxygen atom that is bonded to two carbon atoms"
+  },
+  {
+    "module": "m68848",
+    "title": "Aldehydes, Ketones, Carboxylic Acids, and Esters",
+    "term": "aldehyde",
+    "meaning": "organic compound containing a carbonyl group bonded to two hydrogen atoms or a hydrogen atom and a carbon substituent"
+  },
+  {
+    "module": "m68848",
+    "title": "Aldehydes, Ketones, Carboxylic Acids, and Esters",
+    "term": "carbonyl group",
+    "meaning": "carbon atom double bonded to an oxygen atom"
+  },
+  {
+    "module": "m68848",
+    "title": "Aldehydes, Ketones, Carboxylic Acids, and Esters",
+    "term": "carboxylic acid",
+    "meaning": "organic compound containing a carbonyl group with an attached hydroxyl group"
+  },
+  {
+    "module": "m68848",
+    "title": "Aldehydes, Ketones, Carboxylic Acids, and Esters",
+    "term": "ester",
+    "meaning": "organic compound containing a carbonyl group with an attached oxygen atom that is bonded to a carbon substituent"
+  },
+  {
+    "module": "m68848",
+    "title": "Aldehydes, Ketones, Carboxylic Acids, and Esters",
+    "term": "ketone",
+    "meaning": "organic compound containing a carbonyl group with two carbon substituents attached to it"
+  },
+  {
+    "module": "m68849",
+    "title": "Amines and Amides",
+    "term": "amine",
+    "meaning": "organic molecule in which a nitrogen atom is bonded to one or more alkyl group"
+  },
+  {
+    "module": "m68849",
+    "title": "Amines and Amides",
+    "term": "amide",
+    "meaning": "organic molecule that features a nitrogen atom connected to the carbon atom in a carbonyl group"
+  }
+]
